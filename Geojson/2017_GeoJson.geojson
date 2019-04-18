@@ -27,7 +27,7 @@
     "INDUS":10,
     "IMMIGRate":5.04032258064516,
     "EntreRate":4.63709677419355,
-    "ImmigOwnEntreRate":1.41129032258065
+    "ImmigOwnEntreRate":30.4347826086957
     }
   },
   {
@@ -56,7 +56,7 @@
     "INDUS":10,
     "IMMIGRate":29.3384579548102,
     "EntreRate":6.17283950617284,
-    "ImmigOwnEntreRate":2.28278593058467
+    "ImmigOwnEntreRate":36.9811320754717
     }
   },
   {
@@ -85,7 +85,7 @@
     "INDUS":10,
     "IMMIGRate":9.70724191063174,
     "EntreRate":8.93682588597843,
-    "ImmigOwnEntreRate":0.61633281972265
+    "ImmigOwnEntreRate":6.89655172413793
     }
   },
   {
@@ -114,7 +114,7 @@
     "INDUS":10,
     "IMMIGRate":8.51293103448276,
     "EntreRate":5.81896551724138,
-    "ImmigOwnEntreRate":0.969827586206897
+    "ImmigOwnEntreRate":16.6666666666667
     }
   },
   {
@@ -143,7 +143,7 @@
     "INDUS":10,
     "IMMIGRate":8.14977973568282,
     "EntreRate":5.06607929515418,
-    "ImmigOwnEntreRate":0.293685756240822
+    "ImmigOwnEntreRate":5.79710144927536
     }
   },
   {
@@ -172,7 +172,7 @@
     "INDUS":10,
     "IMMIGRate":20.0665188470067,
     "EntreRate":9.42350332594235,
-    "ImmigOwnEntreRate":3.10421286031042
+    "ImmigOwnEntreRate":32.9411764705882
     }
   },
   {
@@ -201,7 +201,7 @@
     "INDUS":10,
     "IMMIGRate":18.2464454976303,
     "EntreRate":3.39652448657188,
-    "ImmigOwnEntreRate":0.631911532385466
+    "ImmigOwnEntreRate":18.6046511627907
     }
   },
   {
@@ -230,7 +230,7 @@
     "INDUS":10,
     "IMMIGRate":37.7260444813968,
     "EntreRate":8.33506547495323,
-    "ImmigOwnEntreRate":3.01392641862399
+    "ImmigOwnEntreRate":36.1596009975062
     }
   },
   {
@@ -259,7 +259,7 @@
     "INDUS":10,
     "IMMIGRate":15.6060606060606,
     "EntreRate":8.03030303030303,
-    "ImmigOwnEntreRate":1.36363636363636
+    "ImmigOwnEntreRate":16.9811320754717
     }
   },
   {
@@ -288,7 +288,7 @@
     "INDUS":10,
     "IMMIGRate":24.3918620079611,
     "EntreRate":6.85537372843874,
-    "ImmigOwnEntreRate":1.92392746572313
+    "ImmigOwnEntreRate":28.0645161290323
     }
   },
   {
@@ -317,7 +317,7 @@
     "INDUS":10,
     "IMMIGRate":46.9470483911832,
     "EntreRate":6.56194578160628,
-    "ImmigOwnEntreRate":2.7615910818343
+    "ImmigOwnEntreRate":42.0849420849421
     }
   },
   {
@@ -346,7 +346,7 @@
     "INDUS":10,
     "IMMIGRate":40.3091557669441,
     "EntreRate":6.42092746730083,
-    "ImmigOwnEntreRate":1.90249702734839
+    "ImmigOwnEntreRate":29.6296296296296
     }
   },
   {
@@ -375,7 +375,7 @@
     "INDUS":10,
     "IMMIGRate":34.4993141289438,
     "EntreRate":6.51577503429355,
-    "ImmigOwnEntreRate":1.78326474622771
+    "ImmigOwnEntreRate":27.3684210526316
     }
   },
   {
@@ -404,7 +404,7 @@
     "INDUS":10,
     "IMMIGRate":22.862779482683,
     "EntreRate":6.57606313020605,
-    "ImmigOwnEntreRate":1.55633494081543
+    "ImmigOwnEntreRate":23.6666666666667
     }
   },
   {
@@ -433,7 +433,7 @@
     "INDUS":10,
     "IMMIGRate":11.0894941634241,
     "EntreRate":10.3112840466926,
-    "ImmigOwnEntreRate":0.583657587548638
+    "ImmigOwnEntreRate":5.66037735849057
     }
   },
   {
@@ -462,7 +462,7 @@
     "INDUS":10,
     "IMMIGRate":33.2912988650694,
     "EntreRate":5.67465321563682,
-    "ImmigOwnEntreRate":0.378310214375788
+    "ImmigOwnEntreRate":6.66666666666667
     }
   },
   {
@@ -491,7 +491,7 @@
     "INDUS":10,
     "IMMIGRate":33.2912988650694,
     "EntreRate":5.67465321563682,
-    "ImmigOwnEntreRate":0.378310214375788
+    "ImmigOwnEntreRate":6.66666666666667
     }
   },
   {
@@ -520,7 +520,7 @@
     "INDUS":10,
     "IMMIGRate":33.2912988650694,
     "EntreRate":5.67465321563682,
-    "ImmigOwnEntreRate":0.378310214375788
+    "ImmigOwnEntreRate":6.66666666666667
     }
   },
   {
@@ -549,7 +549,7 @@
     "INDUS":10,
     "IMMIGRate":3.24324324324324,
     "EntreRate":7.33590733590734,
-    "ImmigOwnEntreRate":0.463320463320463
+    "ImmigOwnEntreRate":6.31578947368421
     }
   },
   {
@@ -578,7 +578,7 @@
     "INDUS":10,
     "IMMIGRate":29.2410390364243,
     "EntreRate":7.93789000145117,
-    "ImmigOwnEntreRate":2.67014947032361
+    "ImmigOwnEntreRate":33.6380255941499
     }
   },
   {
@@ -607,7 +607,7 @@
     "INDUS":10,
     "IMMIGRate":8.86075949367089,
     "EntreRate":7.75316455696202,
-    "ImmigOwnEntreRate":0.316455696202532
+    "ImmigOwnEntreRate":4.08163265306122
     }
   },
   {
@@ -636,7 +636,7 @@
     "INDUS":10,
     "IMMIGRate":8.86075949367089,
     "EntreRate":7.75316455696202,
-    "ImmigOwnEntreRate":0.316455696202532
+    "ImmigOwnEntreRate":4.08163265306122
     }
   },
   {
@@ -665,7 +665,7 @@
     "INDUS":10,
     "IMMIGRate":15.575286718461,
     "EntreRate":6.65926748057714,
-    "ImmigOwnEntreRate":1.18386977432482
+    "ImmigOwnEntreRate":17.7777777777778
     }
   },
   {
@@ -694,7 +694,7 @@
     "INDUS":10,
     "IMMIGRate":27.4193548387097,
     "EntreRate":11.0887096774194,
-    "ImmigOwnEntreRate":2.92338709677419
+    "ImmigOwnEntreRate":26.3636363636364
     }
   },
   {
@@ -723,7 +723,7 @@
     "INDUS":10,
     "IMMIGRate":16.059861514407,
     "EntreRate":6.49988831807014,
-    "ImmigOwnEntreRate":1.51887424614697
+    "ImmigOwnEntreRate":23.3676975945017
     }
   },
   {
@@ -752,7 +752,7 @@
     "INDUS":10,
     "IMMIGRate":5.61423012784881,
     "EntreRate":8.64369093941078,
-    "ImmigOwnEntreRate":0.222345747637576
+    "ImmigOwnEntreRate":2.57234726688103
     }
   },
   {
@@ -781,7 +781,7 @@
     "INDUS":10,
     "IMMIGRate":5.21042084168337,
     "EntreRate":7.01402805611222,
-    "ImmigOwnEntreRate":0.801603206412826
+    "ImmigOwnEntreRate":11.4285714285714
     }
   },
   {
@@ -810,7 +810,7 @@
     "INDUS":10,
     "IMMIGRate":1.67025862068966,
     "EntreRate":4.6875,
-    "ImmigOwnEntreRate":0.107758620689655
+    "ImmigOwnEntreRate":2.29885057471264
     }
   },
   {
@@ -839,7 +839,7 @@
     "INDUS":10,
     "IMMIGRate":4.78128179043744,
     "EntreRate":8.44354018311292,
-    "ImmigOwnEntreRate":0.81383519837233
+    "ImmigOwnEntreRate":9.63855421686747
     }
   },
   {
@@ -868,7 +868,7 @@
     "INDUS":10,
     "IMMIGRate":4.78128179043744,
     "EntreRate":8.44354018311292,
-    "ImmigOwnEntreRate":0.81383519837233
+    "ImmigOwnEntreRate":9.63855421686747
     }
   },
   {
@@ -897,7 +897,7 @@
     "INDUS":10,
     "IMMIGRate":6.79156908665105,
     "EntreRate":5.3864168618267,
-    "ImmigOwnEntreRate":0.200736032117765
+    "ImmigOwnEntreRate":3.72670807453416
     }
   },
   {
@@ -1013,7 +1013,7 @@
     "INDUS":10,
     "IMMIGRate":8.51735015772871,
     "EntreRate":5.36277602523659,
-    "ImmigOwnEntreRate":0.630914826498423
+    "ImmigOwnEntreRate":11.7647058823529
     }
   },
   {
@@ -1042,7 +1042,7 @@
     "INDUS":10,
     "IMMIGRate":14.018691588785,
     "EntreRate":2.33644859813084,
-    "ImmigOwnEntreRate":0.467289719626168
+    "ImmigOwnEntreRate":20
     }
   },
   {
@@ -1071,7 +1071,7 @@
     "INDUS":10,
     "IMMIGRate":14.9659863945578,
     "EntreRate":5.50696469063816,
-    "ImmigOwnEntreRate":1.03660511823777
+    "ImmigOwnEntreRate":18.8235294117647
     }
   },
   {
@@ -1100,7 +1100,7 @@
     "INDUS":10,
     "IMMIGRate":6.48448355720241,
     "EntreRate":6.02130616025938,
-    "ImmigOwnEntreRate":0.555812876331635
+    "ImmigOwnEntreRate":9.23076923076923
     }
   },
   {
@@ -1129,7 +1129,7 @@
     "INDUS":10,
     "IMMIGRate":12.4950258654994,
     "EntreRate":4.41703143653004,
-    "ImmigOwnEntreRate":0.756068444090728
+    "ImmigOwnEntreRate":17.1171171171171
     }
   },
   {
@@ -1158,7 +1158,7 @@
     "INDUS":10,
     "IMMIGRate":10.228802153432,
     "EntreRate":4.17227456258412,
-    "ImmigOwnEntreRate":0.942126514131898
+    "ImmigOwnEntreRate":22.5806451612903
     }
   },
   {
@@ -1187,7 +1187,7 @@
     "INDUS":10,
     "IMMIGRate":8.10295519542421,
     "EntreRate":4.86177311725453,
-    "ImmigOwnEntreRate":1.23927550047664
+    "ImmigOwnEntreRate":25.4901960784314
     }
   },
   {
@@ -1216,7 +1216,7 @@
     "INDUS":10,
     "IMMIGRate":11.8100128369705,
     "EntreRate":6.54685494223363,
-    "ImmigOwnEntreRate":0.556268720581943
+    "ImmigOwnEntreRate":8.49673202614379
     }
   },
   {
@@ -1274,7 +1274,7 @@
     "INDUS":4,
     "IMMIGRate":9.07216494845361,
     "EntreRate":4.74226804123711,
-    "ImmigOwnEntreRate":1.44329896907216
+    "ImmigOwnEntreRate":30.4347826086957
     }
   },
   {
@@ -1332,7 +1332,7 @@
     "INDUS":10,
     "IMMIGRate":18.8848637580721,
     "EntreRate":6.04819656638841,
-    "ImmigOwnEntreRate":1.11828634430619
+    "ImmigOwnEntreRate":18.4895833333333
     }
   },
   {
@@ -1361,7 +1361,7 @@
     "INDUS":4,
     "IMMIGRate":18.2823442683376,
     "EntreRate":6.2661260597125,
-    "ImmigOwnEntreRate":1.54810173239956
+    "ImmigOwnEntreRate":24.7058823529412
     }
   },
   {
@@ -1390,7 +1390,7 @@
     "INDUS":10,
     "IMMIGRate":24.9921309411394,
     "EntreRate":5.22505508341202,
-    "ImmigOwnEntreRate":1.75217710628475
+    "ImmigOwnEntreRate":33.5341365461847
     }
   },
   {
@@ -1419,7 +1419,7 @@
     "INDUS":10,
     "IMMIGRate":21.8710493046776,
     "EntreRate":6.19469026548673,
-    "ImmigOwnEntreRate":0.632111251580278
+    "ImmigOwnEntreRate":10.2040816326531
     }
   },
   {
@@ -1448,7 +1448,7 @@
     "INDUS":10,
     "IMMIGRate":42.5904317386231,
     "EntreRate":4.78413068844807,
-    "ImmigOwnEntreRate":0.58343057176196
+    "ImmigOwnEntreRate":12.1951219512195
     }
   },
   {
@@ -1477,7 +1477,7 @@
     "INDUS":13,
     "IMMIGRate":40.327380952381,
     "EntreRate":3.125,
-    "ImmigOwnEntreRate":1.33928571428571
+    "ImmigOwnEntreRate":42.8571428571429
     }
   },
   {
@@ -1506,7 +1506,7 @@
     "INDUS":10,
     "IMMIGRate":15.3614457831325,
     "EntreRate":6.32530120481928,
-    "ImmigOwnEntreRate":1.55622489959839
+    "ImmigOwnEntreRate":24.6031746031746
     }
   },
   {
@@ -1535,7 +1535,7 @@
     "INDUS":4,
     "IMMIGRate":12.6019575856444,
     "EntreRate":6.03588907014682,
-    "ImmigOwnEntreRate":0.367047308319739
+    "ImmigOwnEntreRate":6.08108108108108
     }
   },
   {
@@ -1564,7 +1564,7 @@
     "INDUS":10,
     "IMMIGRate":19.5278969957082,
     "EntreRate":4.93562231759657,
-    "ImmigOwnEntreRate":0.858369098712446
+    "ImmigOwnEntreRate":17.3913043478261
     }
   },
   {
@@ -1593,7 +1593,7 @@
     "INDUS":10,
     "IMMIGRate":12.0777279521674,
     "EntreRate":6.78624813153961,
-    "ImmigOwnEntreRate":1.0762331838565
+    "ImmigOwnEntreRate":15.8590308370044
     }
   },
   {
@@ -1622,7 +1622,7 @@
     "INDUS":10,
     "IMMIGRate":7.54950495049505,
     "EntreRate":2.84653465346535,
-    "ImmigOwnEntreRate":0.247524752475248
+    "ImmigOwnEntreRate":8.69565217391304
     }
   },
   {
@@ -1651,7 +1651,7 @@
     "INDUS":10,
     "IMMIGRate":16.1224489795918,
     "EntreRate":5.71428571428571,
-    "ImmigOwnEntreRate":2.85714285714286
+    "ImmigOwnEntreRate":50
     }
   },
   {
@@ -1680,7 +1680,7 @@
     "INDUS":4,
     "IMMIGRate":7,
     "EntreRate":6.25,
-    "ImmigOwnEntreRate":1
+    "ImmigOwnEntreRate":16
     }
   },
   {
@@ -1738,7 +1738,7 @@
     "INDUS":10,
     "IMMIGRate":4.31372549019608,
     "EntreRate":5.35947712418301,
-    "ImmigOwnEntreRate":0.261437908496732
+    "ImmigOwnEntreRate":4.8780487804878
     }
   },
   {
@@ -1796,7 +1796,7 @@
     "INDUS":10,
     "IMMIGRate":4.49438202247191,
     "EntreRate":7.30337078651685,
-    "ImmigOwnEntreRate":1.40449438202247
+    "ImmigOwnEntreRate":19.2307692307692
     }
   },
   {
@@ -1825,7 +1825,7 @@
     "INDUS":13,
     "IMMIGRate":1.55102040816327,
     "EntreRate":4.08163265306122,
-    "ImmigOwnEntreRate":0.326530612244898
+    "ImmigOwnEntreRate":8
     }
   },
   {
@@ -1854,7 +1854,7 @@
     "INDUS":9,
     "IMMIGRate":10.9004739336493,
     "EntreRate":3.7914691943128,
-    "ImmigOwnEntreRate":0.710900473933649
+    "ImmigOwnEntreRate":18.75
     }
   },
   {
@@ -1883,7 +1883,7 @@
     "INDUS":4,
     "IMMIGRate":11.8126272912424,
     "EntreRate":6.31364562118126,
-    "ImmigOwnEntreRate":0.203665987780041
+    "ImmigOwnEntreRate":3.2258064516129
     }
   },
   {
@@ -1912,7 +1912,7 @@
     "INDUS":10,
     "IMMIGRate":23.0464886251236,
     "EntreRate":5.53540682126241,
-    "ImmigOwnEntreRate":1.52764040004396
+    "ImmigOwnEntreRate":27.5976174718729
     }
   },
   {
@@ -1999,7 +1999,7 @@
     "INDUS":10,
     "IMMIGRate":9.10527979766045,
     "EntreRate":4.48940878912425,
-    "ImmigOwnEntreRate":0.442617767941827
+    "ImmigOwnEntreRate":9.85915492957746
     }
   },
   {
@@ -2057,7 +2057,7 @@
     "INDUS":10,
     "IMMIGRate":4.99168053244592,
     "EntreRate":5.49084858569052,
-    "ImmigOwnEntreRate":0.998336106489185
+    "ImmigOwnEntreRate":18.1818181818182
     }
   },
   {
@@ -2086,7 +2086,7 @@
     "INDUS":10,
     "IMMIGRate":24.8927038626609,
     "EntreRate":1.28755364806867,
-    "ImmigOwnEntreRate":0.858369098712446
+    "ImmigOwnEntreRate":66.6666666666667
     }
   },
   {
@@ -2115,7 +2115,7 @@
     "INDUS":10,
     "IMMIGRate":34.8396501457726,
     "EntreRate":4.66472303206997,
-    "ImmigOwnEntreRate":1.16618075801749
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -2144,7 +2144,7 @@
     "INDUS":10,
     "IMMIGRate":9.68175705961452,
     "EntreRate":8.04571940833707,
-    "ImmigOwnEntreRate":1.21021963245182
+    "ImmigOwnEntreRate":15.041782729805
     }
   },
   {
@@ -2173,7 +2173,7 @@
     "INDUS":10,
     "IMMIGRate":8.30188679245283,
     "EntreRate":3.58490566037736,
-    "ImmigOwnEntreRate":0.754716981132076
+    "ImmigOwnEntreRate":21.0526315789474
     }
   },
   {
@@ -2202,7 +2202,7 @@
     "INDUS":10,
     "IMMIGRate":15.5822784810127,
     "EntreRate":8.68354430379747,
-    "ImmigOwnEntreRate":1.54430379746835
+    "ImmigOwnEntreRate":17.7842565597668
     }
   },
   {
@@ -2231,7 +2231,7 @@
     "INDUS":10,
     "IMMIGRate":10.8247422680412,
     "EntreRate":7.47422680412371,
-    "ImmigOwnEntreRate":1.54639175257732
+    "ImmigOwnEntreRate":20.6896551724138
     }
   },
   {
@@ -2260,7 +2260,7 @@
     "INDUS":10,
     "IMMIGRate":24.1533546325879,
     "EntreRate":8.81789137380192,
-    "ImmigOwnEntreRate":2.10862619808307
+    "ImmigOwnEntreRate":23.9130434782609
     }
   },
   {
@@ -2289,7 +2289,7 @@
     "INDUS":10,
     "IMMIGRate":8.09979494190021,
     "EntreRate":6.04921394395079,
-    "ImmigOwnEntreRate":0.307587149692413
+    "ImmigOwnEntreRate":5.08474576271187
     }
   },
   {
@@ -2318,7 +2318,7 @@
     "INDUS":10,
     "IMMIGRate":9.36768149882904,
     "EntreRate":11.0070257611241,
-    "ImmigOwnEntreRate":1.63934426229508
+    "ImmigOwnEntreRate":14.8936170212766
     }
   },
   {
@@ -2347,7 +2347,7 @@
     "INDUS":10,
     "IMMIGRate":10.5743628756181,
     "EntreRate":6.61848611639407,
-    "ImmigOwnEntreRate":0.646633701027006
+    "ImmigOwnEntreRate":9.77011494252874
     }
   },
   {
@@ -2376,7 +2376,7 @@
     "INDUS":10,
     "IMMIGRate":10.5743628756181,
     "EntreRate":6.61848611639407,
-    "ImmigOwnEntreRate":0.646633701027006
+    "ImmigOwnEntreRate":9.77011494252874
     }
   },
   {
@@ -2405,7 +2405,7 @@
     "INDUS":10,
     "IMMIGRate":20.0460324419114,
     "EntreRate":6.9596668128014,
-    "ImmigOwnEntreRate":1.91801841297676
+    "ImmigOwnEntreRate":27.5590551181102
     }
   },
   {
@@ -2434,7 +2434,7 @@
     "INDUS":10,
     "IMMIGRate":19.0763052208835,
     "EntreRate":6.82730923694779,
-    "ImmigOwnEntreRate":2.20883534136546
+    "ImmigOwnEntreRate":32.3529411764706
     }
   },
   {
@@ -2463,7 +2463,7 @@
     "INDUS":10,
     "IMMIGRate":19.0763052208835,
     "EntreRate":6.82730923694779,
-    "ImmigOwnEntreRate":2.20883534136546
+    "ImmigOwnEntreRate":32.3529411764706
     }
   },
   {
@@ -2492,7 +2492,7 @@
     "INDUS":10,
     "IMMIGRate":8.75957755228826,
     "EntreRate":6.62663077241665,
-    "ImmigOwnEntreRate":0.641954856077863
+    "ImmigOwnEntreRate":9.6875
     }
   },
   {
@@ -2521,7 +2521,7 @@
     "INDUS":10,
     "IMMIGRate":3.50765306122449,
     "EntreRate":3.38010204081633,
-    "ImmigOwnEntreRate":0.510204081632653
+    "ImmigOwnEntreRate":15.0943396226415
     }
   },
   {
@@ -2550,7 +2550,7 @@
     "INDUS":10,
     "IMMIGRate":3.50765306122449,
     "EntreRate":3.38010204081633,
-    "ImmigOwnEntreRate":0.510204081632653
+    "ImmigOwnEntreRate":15.0943396226415
     }
   },
   {
@@ -2579,7 +2579,7 @@
     "INDUS":10,
     "IMMIGRate":9.1565349544073,
     "EntreRate":8.18768996960486,
-    "ImmigOwnEntreRate":1.40577507598784
+    "ImmigOwnEntreRate":17.169373549884
     }
   },
   {
@@ -2608,7 +2608,7 @@
     "INDUS":10,
     "IMMIGRate":3.68852459016393,
     "EntreRate":4.37158469945355,
-    "ImmigOwnEntreRate":0.546448087431694
+    "ImmigOwnEntreRate":12.5
     }
   },
   {
@@ -2666,7 +2666,7 @@
     "INDUS":10,
     "IMMIGRate":6.56136087484812,
     "EntreRate":5.10328068043742,
-    "ImmigOwnEntreRate":0.243013365735115
+    "ImmigOwnEntreRate":4.76190476190476
     }
   },
   {
@@ -2695,7 +2695,7 @@
     "INDUS":10,
     "IMMIGRate":9.83242479305471,
     "EntreRate":8.29800121138704,
-    "ImmigOwnEntreRate":0.908540278619019
+    "ImmigOwnEntreRate":10.9489051094891
     }
   },
   {
@@ -2782,7 +2782,7 @@
     "INDUS":10,
     "IMMIGRate":8.09792843691149,
     "EntreRate":3.57815442561205,
-    "ImmigOwnEntreRate":2.07156308851224
+    "ImmigOwnEntreRate":57.8947368421053
     }
   },
   {
@@ -2811,7 +2811,7 @@
     "INDUS":10,
     "IMMIGRate":8.09792843691149,
     "EntreRate":3.57815442561205,
-    "ImmigOwnEntreRate":2.07156308851224
+    "ImmigOwnEntreRate":57.8947368421053
     }
   },
   {
@@ -2840,7 +2840,7 @@
     "INDUS":10,
     "IMMIGRate":16.039907904835,
     "EntreRate":7.44435917114351,
-    "ImmigOwnEntreRate":1.91864927091328
+    "ImmigOwnEntreRate":25.7731958762887
     }
   },
   {
@@ -2869,7 +2869,7 @@
     "INDUS":10,
     "IMMIGRate":13.4715025906736,
     "EntreRate":12.0898100172712,
-    "ImmigOwnEntreRate":1.89982728842832
+    "ImmigOwnEntreRate":15.7142857142857
     }
   },
   {
@@ -2898,7 +2898,7 @@
     "INDUS":10,
     "IMMIGRate":31.8181818181818,
     "EntreRate":13.4848484848485,
-    "ImmigOwnEntreRate":4.39393939393939
+    "ImmigOwnEntreRate":32.5842696629214
     }
   },
   {
@@ -2927,7 +2927,7 @@
     "INDUS":10,
     "IMMIGRate":23.4501347708895,
     "EntreRate":7.31909599834128,
-    "ImmigOwnEntreRate":2.36367406178727
+    "ImmigOwnEntreRate":32.2946175637394
     }
   },
   {
@@ -2956,7 +2956,7 @@
     "INDUS":10,
     "IMMIGRate":6.34291377601586,
     "EntreRate":5.94648166501487,
-    "ImmigOwnEntreRate":0.495540138751239
+    "ImmigOwnEntreRate":8.33333333333333
     }
   },
   {
@@ -2985,7 +2985,7 @@
     "INDUS":10,
     "IMMIGRate":24.9653259361997,
     "EntreRate":9.15395284327323,
-    "ImmigOwnEntreRate":3.46740638002774
+    "ImmigOwnEntreRate":37.8787878787879
     }
   },
   {
@@ -3014,7 +3014,7 @@
     "INDUS":10,
     "IMMIGRate":4.3790987941612,
     "EntreRate":4.71757986037656,
-    "ImmigOwnEntreRate":0.253860799661519
+    "ImmigOwnEntreRate":5.38116591928251
     }
   },
   {
@@ -3043,7 +3043,7 @@
     "INDUS":10,
     "IMMIGRate":5.98006644518272,
     "EntreRate":7.41971207087486,
-    "ImmigOwnEntreRate":1.32890365448505
+    "ImmigOwnEntreRate":17.910447761194
     }
   },
   {
@@ -3072,7 +3072,7 @@
     "INDUS":10,
     "IMMIGRate":14.3015232391616,
     "EntreRate":5.79351646920974,
-    "ImmigOwnEntreRate":1.13917458664236
+    "ImmigOwnEntreRate":19.6629213483146
     }
   },
   {
@@ -3101,7 +3101,7 @@
     "INDUS":10,
     "IMMIGRate":33.214812473662,
     "EntreRate":5.98925410872314,
-    "ImmigOwnEntreRate":1.90423514538559
+    "ImmigOwnEntreRate":31.7941952506596
     }
   },
   {
@@ -3130,7 +3130,7 @@
     "INDUS":10,
     "IMMIGRate":17.2510518934081,
     "EntreRate":5.32959326788219,
-    "ImmigOwnEntreRate":1.02851799906498
+    "ImmigOwnEntreRate":19.2982456140351
     }
   },
   {
@@ -3159,7 +3159,7 @@
     "INDUS":10,
     "IMMIGRate":16.0741885625966,
     "EntreRate":4.63678516228748,
-    "ImmigOwnEntreRate":0.772797527047913
+    "ImmigOwnEntreRate":16.6666666666667
     }
   },
   {
@@ -3188,7 +3188,7 @@
     "INDUS":10,
     "IMMIGRate":16.0741885625966,
     "EntreRate":4.63678516228748,
-    "ImmigOwnEntreRate":0.772797527047913
+    "ImmigOwnEntreRate":16.6666666666667
     }
   },
   {
@@ -3217,7 +3217,7 @@
     "INDUS":10,
     "IMMIGRate":16.0741885625966,
     "EntreRate":4.63678516228748,
-    "ImmigOwnEntreRate":0.772797527047913
+    "ImmigOwnEntreRate":16.6666666666667
     }
   },
   {
@@ -3246,7 +3246,7 @@
     "INDUS":10,
     "IMMIGRate":16.0741885625966,
     "EntreRate":4.63678516228748,
-    "ImmigOwnEntreRate":0.772797527047913
+    "ImmigOwnEntreRate":16.6666666666667
     }
   },
   {
@@ -3275,7 +3275,7 @@
     "INDUS":10,
     "IMMIGRate":16.8984845339423,
     "EntreRate":5.65704795515881,
-    "ImmigOwnEntreRate":0.747353124351256
+    "ImmigOwnEntreRate":13.2110091743119
     }
   },
   {
@@ -3304,7 +3304,7 @@
     "INDUS":10,
     "IMMIGRate":3.86772955417774,
     "EntreRate":12.2527310304104,
-    "ImmigOwnEntreRate":0.177147918511957
+    "ImmigOwnEntreRate":1.44578313253012
     }
   },
   {
@@ -3333,7 +3333,7 @@
     "INDUS":10,
     "IMMIGRate":13.0513517009443,
     "EntreRate":6.63562281722934,
-    "ImmigOwnEntreRate":0.504462553356616
+    "ImmigOwnEntreRate":7.60233918128655
     }
   },
   {
@@ -3362,7 +3362,7 @@
     "INDUS":10,
     "IMMIGRate":9.48710346872221,
     "EntreRate":5.63296768455381,
-    "ImmigOwnEntreRate":1.06729914023125
+    "ImmigOwnEntreRate":18.9473684210526
     }
   },
   {
@@ -3391,7 +3391,7 @@
     "INDUS":10,
     "IMMIGRate":11.8532455315146,
     "EntreRate":9.78363123236124,
-    "ImmigOwnEntreRate":0.282220131702728
+    "ImmigOwnEntreRate":2.88461538461538
     }
   },
   {
@@ -3420,7 +3420,7 @@
     "INDUS":10,
     "IMMIGRate":13.5650224215247,
     "EntreRate":11.5470852017937,
-    "ImmigOwnEntreRate":2.01793721973094
+    "ImmigOwnEntreRate":17.4757281553398
     }
   },
   {
@@ -3449,7 +3449,7 @@
     "INDUS":10,
     "IMMIGRate":27.0893371757925,
     "EntreRate":3.84245917387128,
-    "ImmigOwnEntreRate":1.72910662824208
+    "ImmigOwnEntreRate":45
     }
   },
   {
@@ -3478,7 +3478,7 @@
     "INDUS":10,
     "IMMIGRate":29.5485636114911,
     "EntreRate":3.14637482900137,
-    "ImmigOwnEntreRate":0.410396716826265
+    "ImmigOwnEntreRate":13.0434782608696
     }
   },
   {
@@ -3507,7 +3507,7 @@
     "INDUS":10,
     "IMMIGRate":29.5485636114911,
     "EntreRate":3.14637482900137,
-    "ImmigOwnEntreRate":0.410396716826265
+    "ImmigOwnEntreRate":13.0434782608696
     }
   },
   {
@@ -3536,7 +3536,7 @@
     "INDUS":10,
     "IMMIGRate":29.5485636114911,
     "EntreRate":3.14637482900137,
-    "ImmigOwnEntreRate":0.410396716826265
+    "ImmigOwnEntreRate":13.0434782608696
     }
   },
   {
@@ -3565,7 +3565,7 @@
     "INDUS":10,
     "IMMIGRate":26.9401878398418,
     "EntreRate":3.65793376173999,
-    "ImmigOwnEntreRate":1.3840830449827
+    "ImmigOwnEntreRate":37.8378378378378
     }
   },
   {
@@ -3594,7 +3594,7 @@
     "INDUS":10,
     "IMMIGRate":39.8596192704456,
     "EntreRate":8.76316069339572,
-    "ImmigOwnEntreRate":3.98808890779538
+    "ImmigOwnEntreRate":45.5097087378641
     }
   },
   {
@@ -3652,7 +3652,7 @@
     "INDUS":10,
     "IMMIGRate":13.257790368272,
     "EntreRate":5.70821529745043,
-    "ImmigOwnEntreRate":1.03399433427762
+    "ImmigOwnEntreRate":18.1141439205955
     }
   },
   {
@@ -3681,7 +3681,7 @@
     "INDUS":10,
     "IMMIGRate":28.3627510651248,
     "EntreRate":4.80827754108338,
-    "ImmigOwnEntreRate":1.03469263542301
+    "ImmigOwnEntreRate":21.5189873417722
     }
   },
   {
@@ -3710,7 +3710,7 @@
     "INDUS":10,
     "IMMIGRate":2.35690235690236,
     "EntreRate":8.41750841750842,
-    "ImmigOwnEntreRate":0.505050505050505
+    "ImmigOwnEntreRate":6
     }
   },
   {
@@ -3739,7 +3739,7 @@
     "INDUS":10,
     "IMMIGRate":14.3757254186702,
     "EntreRate":8.10810810810811,
-    "ImmigOwnEntreRate":1.11092687779804
+    "ImmigOwnEntreRate":13.7014314928425
     }
   },
   {
@@ -3797,7 +3797,7 @@
     "INDUS":10,
     "IMMIGRate":9.24528301886792,
     "EntreRate":4.90566037735849,
-    "ImmigOwnEntreRate":0.566037735849057
+    "ImmigOwnEntreRate":11.5384615384615
     }
   },
   {
@@ -3826,7 +3826,7 @@
     "INDUS":10,
     "IMMIGRate":9.56340956340956,
     "EntreRate":4.15800415800416,
-    "ImmigOwnEntreRate":0.415800415800416
+    "ImmigOwnEntreRate":10
     }
   },
   {
@@ -3855,7 +3855,7 @@
     "INDUS":10,
     "IMMIGRate":8.41683366733467,
     "EntreRate":6.2124248496994,
-    "ImmigOwnEntreRate":0.801603206412826
+    "ImmigOwnEntreRate":12.9032258064516
     }
   },
   {
@@ -3884,7 +3884,7 @@
     "INDUS":10,
     "IMMIGRate":30.2521008403361,
     "EntreRate":6.23249299719888,
-    "ImmigOwnEntreRate":3.99159663865546
+    "ImmigOwnEntreRate":64.0449438202247
     }
   },
   {
@@ -3913,7 +3913,7 @@
     "INDUS":10,
     "IMMIGRate":8.40064620355412,
     "EntreRate":4.78190630048465,
-    "ImmigOwnEntreRate":0.12924071082391
+    "ImmigOwnEntreRate":2.7027027027027
     }
   },
   {
@@ -3942,7 +3942,7 @@
     "INDUS":10,
     "IMMIGRate":32.874218317106,
     "EntreRate":6.24554737592021,
-    "ImmigOwnEntreRate":2.75469009736405
+    "ImmigOwnEntreRate":44.106463878327
     }
   },
   {
@@ -3971,7 +3971,7 @@
     "INDUS":10,
     "IMMIGRate":6.95410292072323,
     "EntreRate":4.86787204450626,
-    "ImmigOwnEntreRate":0.834492350486787
+    "ImmigOwnEntreRate":17.1428571428571
     }
   },
   {
@@ -4029,7 +4029,7 @@
     "INDUS":10,
     "IMMIGRate":15.4210348326006,
     "EntreRate":4.97125464998309,
-    "ImmigOwnEntreRate":0.642543118025025
+    "ImmigOwnEntreRate":12.9251700680272
     }
   },
   {
@@ -4058,7 +4058,7 @@
     "INDUS":10,
     "IMMIGRate":9.82658959537572,
     "EntreRate":5.05780346820809,
-    "ImmigOwnEntreRate":0.240847784200385
+    "ImmigOwnEntreRate":4.76190476190476
     }
   },
   {
@@ -4087,7 +4087,7 @@
     "INDUS":10,
     "IMMIGRate":7.84898161947342,
     "EntreRate":6.08544461003477,
-    "ImmigOwnEntreRate":0.447093889716841
+    "ImmigOwnEntreRate":7.34693877551021
     }
   },
   {
@@ -4116,7 +4116,7 @@
     "INDUS":10,
     "IMMIGRate":2.74135876042908,
     "EntreRate":6.91299165673421,
-    "ImmigOwnEntreRate":0.476758045292014
+    "ImmigOwnEntreRate":6.89655172413793
     }
   },
   {
@@ -4145,7 +4145,7 @@
     "INDUS":10,
     "IMMIGRate":7.71248688352571,
     "EntreRate":4.48583420776495,
-    "ImmigOwnEntreRate":0.34102833158447
+    "ImmigOwnEntreRate":7.60233918128655
     }
   },
   {
@@ -4174,7 +4174,7 @@
     "INDUS":10,
     "IMMIGRate":14.3859649122807,
     "EntreRate":5.05263157894737,
-    "ImmigOwnEntreRate":0.701754385964912
+    "ImmigOwnEntreRate":13.8888888888889
     }
   },
   {
@@ -4203,7 +4203,7 @@
     "INDUS":10,
     "IMMIGRate":14.3859649122807,
     "EntreRate":5.05263157894737,
-    "ImmigOwnEntreRate":0.701754385964912
+    "ImmigOwnEntreRate":13.8888888888889
     }
   },
   {
@@ -4232,7 +4232,7 @@
     "INDUS":10,
     "IMMIGRate":3.7542662116041,
     "EntreRate":4.60750853242321,
-    "ImmigOwnEntreRate":0.170648464163823
+    "ImmigOwnEntreRate":3.7037037037037
     }
   },
   {
@@ -4290,7 +4290,7 @@
     "INDUS":10,
     "IMMIGRate":4.14814814814815,
     "EntreRate":7.25925925925926,
-    "ImmigOwnEntreRate":0.148148148148148
+    "ImmigOwnEntreRate":2.04081632653061
     }
   },
   {
@@ -4319,7 +4319,7 @@
     "INDUS":10,
     "IMMIGRate":4.14814814814815,
     "EntreRate":7.25925925925926,
-    "ImmigOwnEntreRate":0.148148148148148
+    "ImmigOwnEntreRate":2.04081632653061
     }
   },
   {
@@ -4377,7 +4377,7 @@
     "INDUS":10,
     "IMMIGRate":8.13148788927336,
     "EntreRate":7.78546712802768,
-    "ImmigOwnEntreRate":2.42214532871972
+    "ImmigOwnEntreRate":31.1111111111111
     }
   },
   {
@@ -4406,7 +4406,7 @@
     "INDUS":10,
     "IMMIGRate":6.22317596566524,
     "EntreRate":7.58226037195994,
-    "ImmigOwnEntreRate":0.786838340486409
+    "ImmigOwnEntreRate":10.377358490566
     }
   },
   {
@@ -4435,7 +4435,7 @@
     "INDUS":10,
     "IMMIGRate":18.0451127819549,
     "EntreRate":3.45864661654135,
-    "ImmigOwnEntreRate":0.451127819548872
+    "ImmigOwnEntreRate":13.0434782608696
     }
   },
   {
@@ -4464,7 +4464,7 @@
     "INDUS":10,
     "IMMIGRate":9.00770712909441,
     "EntreRate":6.5028901734104,
-    "ImmigOwnEntreRate":0.626204238921002
+    "ImmigOwnEntreRate":9.62962962962963
     }
   },
   {
@@ -4493,7 +4493,7 @@
     "INDUS":10,
     "IMMIGRate":7.06556333545512,
     "EntreRate":4.86950986632718,
-    "ImmigOwnEntreRate":0.572883513685551
+    "ImmigOwnEntreRate":11.7647058823529
     }
   },
   {
@@ -4522,7 +4522,7 @@
     "INDUS":10,
     "IMMIGRate":6.94183864915572,
     "EntreRate":6.09756097560976,
-    "ImmigOwnEntreRate":1.50093808630394
+    "ImmigOwnEntreRate":24.6153846153846
     }
   },
   {
@@ -4551,7 +4551,7 @@
     "INDUS":10,
     "IMMIGRate":11.8694362017804,
     "EntreRate":5.56379821958457,
-    "ImmigOwnEntreRate":0.741839762611276
+    "ImmigOwnEntreRate":13.3333333333333
     }
   },
   {
@@ -4609,7 +4609,7 @@
     "INDUS":10,
     "IMMIGRate":19.6428571428571,
     "EntreRate":4.6875,
-    "ImmigOwnEntreRate":0.669642857142857
+    "ImmigOwnEntreRate":14.2857142857143
     }
   },
   {
@@ -4841,7 +4841,7 @@
     "INDUS":10,
     "IMMIGRate":12.4794023948149,
     "EntreRate":4.73470284521586,
-    "ImmigOwnEntreRate":0.779962649675931
+    "ImmigOwnEntreRate":16.4733178654292
     }
   },
   {
@@ -4870,7 +4870,7 @@
     "INDUS":10,
     "IMMIGRate":9.8876404494382,
     "EntreRate":9.32584269662921,
-    "ImmigOwnEntreRate":0.674157303370786
+    "ImmigOwnEntreRate":7.2289156626506
     }
   },
   {
@@ -4899,7 +4899,7 @@
     "INDUS":10,
     "IMMIGRate":15.6435643564356,
     "EntreRate":5.14851485148515,
-    "ImmigOwnEntreRate":0.396039603960396
+    "ImmigOwnEntreRate":7.69230769230769
     }
   },
   {
@@ -4928,7 +4928,7 @@
     "INDUS":10,
     "IMMIGRate":6.55226209048362,
     "EntreRate":5.65522620904836,
-    "ImmigOwnEntreRate":0.390015600624025
+    "ImmigOwnEntreRate":6.89655172413793
     }
   },
   {
@@ -4957,7 +4957,7 @@
     "INDUS":10,
     "IMMIGRate":7.59878419452887,
     "EntreRate":5.92705167173252,
-    "ImmigOwnEntreRate":0.759878419452888
+    "ImmigOwnEntreRate":12.8205128205128
     }
   },
   {
@@ -4986,7 +4986,7 @@
     "INDUS":10,
     "IMMIGRate":6.0790273556231,
     "EntreRate":5.09118541033435,
-    "ImmigOwnEntreRate":0.455927051671732
+    "ImmigOwnEntreRate":8.95522388059701
     }
   },
   {
@@ -5015,7 +5015,7 @@
     "INDUS":10,
     "IMMIGRate":6.73076923076923,
     "EntreRate":6.81818181818182,
-    "ImmigOwnEntreRate":0.437062937062937
+    "ImmigOwnEntreRate":6.41025641025641
     }
   },
   {
@@ -5044,7 +5044,7 @@
     "INDUS":10,
     "IMMIGRate":13.2854578096948,
     "EntreRate":8.25852782764812,
-    "ImmigOwnEntreRate":0.718132854578097
+    "ImmigOwnEntreRate":8.69565217391304
     }
   },
   {
@@ -5073,7 +5073,7 @@
     "INDUS":10,
     "IMMIGRate":49.9649921232277,
     "EntreRate":10.4673551549099,
-    "ImmigOwnEntreRate":6.30141781900928
+    "ImmigOwnEntreRate":60.2006688963211
     }
   },
   {
@@ -5189,7 +5189,7 @@
     "INDUS":10,
     "IMMIGRate":15.1971326164875,
     "EntreRate":4.87455197132617,
-    "ImmigOwnEntreRate":1.00358422939068
+    "ImmigOwnEntreRate":20.5882352941176
     }
   },
   {
@@ -5218,7 +5218,7 @@
     "INDUS":10,
     "IMMIGRate":18.4542586750789,
     "EntreRate":5.83596214511041,
-    "ImmigOwnEntreRate":0.788643533123028
+    "ImmigOwnEntreRate":13.5135135135135
     }
   },
   {
@@ -5247,7 +5247,7 @@
     "INDUS":10,
     "IMMIGRate":18.4542586750789,
     "EntreRate":5.83596214511041,
-    "ImmigOwnEntreRate":0.788643533123028
+    "ImmigOwnEntreRate":13.5135135135135
     }
   },
   {
@@ -5276,7 +5276,7 @@
     "INDUS":10,
     "IMMIGRate":18.4542586750789,
     "EntreRate":5.83596214511041,
-    "ImmigOwnEntreRate":0.788643533123028
+    "ImmigOwnEntreRate":13.5135135135135
     }
   },
   {
@@ -5363,7 +5363,7 @@
     "INDUS":10,
     "IMMIGRate":19.560878243513,
     "EntreRate":1.79640718562874,
-    "ImmigOwnEntreRate":0.798403193612774
+    "ImmigOwnEntreRate":44.4444444444444
     }
   },
   {
@@ -5392,7 +5392,7 @@
     "INDUS":10,
     "IMMIGRate":4.8728813559322,
     "EntreRate":6.21468926553672,
-    "ImmigOwnEntreRate":0.77683615819209
+    "ImmigOwnEntreRate":12.5
     }
   },
   {
@@ -5479,7 +5479,7 @@
     "INDUS":10,
     "IMMIGRate":9.1296928327645,
     "EntreRate":2.55972696245734,
-    "ImmigOwnEntreRate":0.511945392491468
+    "ImmigOwnEntreRate":20
     }
   },
   {
@@ -5508,7 +5508,7 @@
     "INDUS":10,
     "IMMIGRate":9.20920920920921,
     "EntreRate":5.75575575575576,
-    "ImmigOwnEntreRate":1.1011011011011
+    "ImmigOwnEntreRate":19.1304347826087
     }
   },
   {
@@ -5537,7 +5537,7 @@
     "INDUS":10,
     "IMMIGRate":9.73011363636364,
     "EntreRate":5.18465909090909,
-    "ImmigOwnEntreRate":0.78125
+    "ImmigOwnEntreRate":15.0684931506849
     }
   },
   {
@@ -5566,7 +5566,7 @@
     "INDUS":10,
     "IMMIGRate":12.1042830540037,
     "EntreRate":9.86964618249534,
-    "ImmigOwnEntreRate":0.74487895716946
+    "ImmigOwnEntreRate":7.54716981132075
     }
   },
   {
@@ -5595,7 +5595,7 @@
     "INDUS":10,
     "IMMIGRate":7.72976262933658,
     "EntreRate":3.71272063298844,
-    "ImmigOwnEntreRate":0.121728545343883
+    "ImmigOwnEntreRate":3.27868852459016
     }
   },
   {
@@ -5653,7 +5653,7 @@
     "INDUS":10,
     "IMMIGRate":12.626098275301,
     "EntreRate":5.01138952164009,
-    "ImmigOwnEntreRate":0.520663846404165
+    "ImmigOwnEntreRate":10.3896103896104
     }
   },
   {
@@ -5682,7 +5682,7 @@
     "INDUS":10,
     "IMMIGRate":12.2639068564036,
     "EntreRate":5.92496765847348,
-    "ImmigOwnEntreRate":0.646830530401035
+    "ImmigOwnEntreRate":10.9170305676856
     }
   },
   {
@@ -5711,7 +5711,7 @@
     "INDUS":10,
     "IMMIGRate":4.28911834789516,
     "EntreRate":5.40111199364575,
-    "ImmigOwnEntreRate":0.317712470214456
+    "ImmigOwnEntreRate":5.88235294117647
     }
   },
   {
@@ -5740,7 +5740,7 @@
     "INDUS":10,
     "IMMIGRate":20.5287713841369,
     "EntreRate":6.60964230171073,
-    "ImmigOwnEntreRate":1.16640746500778
+    "ImmigOwnEntreRate":17.6470588235294
     }
   },
   {
@@ -5769,7 +5769,7 @@
     "INDUS":10,
     "IMMIGRate":0.586854460093897,
     "EntreRate":4.46009389671362,
-    "ImmigOwnEntreRate":0.352112676056338
+    "ImmigOwnEntreRate":7.89473684210526
     }
   },
   {
@@ -5798,7 +5798,7 @@
     "INDUS":10,
     "IMMIGRate":4.27208627125674,
     "EntreRate":6.05557859809208,
-    "ImmigOwnEntreRate":0.49771878888428
+    "ImmigOwnEntreRate":8.21917808219178
     }
   },
   {
@@ -5856,7 +5856,7 @@
     "INDUS":10,
     "IMMIGRate":3.17948717948718,
     "EntreRate":4.71794871794872,
-    "ImmigOwnEntreRate":0.717948717948718
+    "ImmigOwnEntreRate":15.2173913043478
     }
   },
   {
@@ -5885,7 +5885,7 @@
     "INDUS":10,
     "IMMIGRate":25.8536585365854,
     "EntreRate":9.33797909407665,
-    "ImmigOwnEntreRate":1.81184668989547
+    "ImmigOwnEntreRate":19.4029850746269
     }
   },
   {
@@ -5943,7 +5943,7 @@
     "INDUS":10,
     "IMMIGRate":4.72837022132797,
     "EntreRate":12.374245472837,
-    "ImmigOwnEntreRate":0.402414486921529
+    "ImmigOwnEntreRate":3.2520325203252
     }
   },
   {
@@ -5972,7 +5972,7 @@
     "INDUS":10,
     "IMMIGRate":22.0792079207921,
     "EntreRate":4.45544554455445,
-    "ImmigOwnEntreRate":1.38613861386139
+    "ImmigOwnEntreRate":31.1111111111111
     }
   },
   {
@@ -6001,7 +6001,7 @@
     "INDUS":10,
     "IMMIGRate":33.4244702665755,
     "EntreRate":4.92139439507861,
-    "ImmigOwnEntreRate":1.57211209842789
+    "ImmigOwnEntreRate":31.9444444444444
     }
   },
   {
@@ -6059,7 +6059,7 @@
     "INDUS":10,
     "IMMIGRate":9.068746952706,
     "EntreRate":8.3373963920039,
-    "ImmigOwnEntreRate":0.536323744514871
+    "ImmigOwnEntreRate":6.4327485380117
     }
   },
   {
@@ -6088,7 +6088,7 @@
     "INDUS":10,
     "IMMIGRate":27.4248302618817,
     "EntreRate":4.55868089233754,
-    "ImmigOwnEntreRate":1.20029097963143
+    "ImmigOwnEntreRate":26.3297872340426
     }
   },
   {
@@ -6117,7 +6117,7 @@
     "INDUS":10,
     "IMMIGRate":8.85529157667387,
     "EntreRate":8.207343412527,
-    "ImmigOwnEntreRate":0.755939524838013
+    "ImmigOwnEntreRate":9.21052631578947
     }
   },
   {
@@ -6175,7 +6175,7 @@
     "INDUS":10,
     "IMMIGRate":28.0503144654088,
     "EntreRate":8.11320754716981,
-    "ImmigOwnEntreRate":4.21383647798742
+    "ImmigOwnEntreRate":51.937984496124
     }
   },
   {
@@ -6204,7 +6204,7 @@
     "INDUS":10,
     "IMMIGRate":17.9886685552408,
     "EntreRate":7.93201133144476,
-    "ImmigOwnEntreRate":1.41643059490085
+    "ImmigOwnEntreRate":17.8571428571429
     }
   },
   {
@@ -6233,7 +6233,7 @@
     "INDUS":10,
     "IMMIGRate":7.78748180494905,
     "EntreRate":8.80640465793304,
-    "ImmigOwnEntreRate":0.727802037845706
+    "ImmigOwnEntreRate":8.26446280991736
     }
   },
   {
@@ -6262,7 +6262,7 @@
     "INDUS":10,
     "IMMIGRate":44.1558441558442,
     "EntreRate":5.41125541125541,
-    "ImmigOwnEntreRate":2.81385281385281
+    "ImmigOwnEntreRate":52
     }
   },
   {
@@ -6291,7 +6291,7 @@
     "INDUS":10,
     "IMMIGRate":20.6076618229855,
     "EntreRate":4.22721268163805,
-    "ImmigOwnEntreRate":1.05680317040951
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -6320,7 +6320,7 @@
     "INDUS":10,
     "IMMIGRate":23.4478053218103,
     "EntreRate":6.98203320445758,
-    "ImmigOwnEntreRate":1.25085285421879
+    "ImmigOwnEntreRate":17.9153094462541
     }
   },
   {
@@ -6349,7 +6349,7 @@
     "INDUS":10,
     "IMMIGRate":24.0437158469945,
     "EntreRate":4.91803278688525,
-    "ImmigOwnEntreRate":3.09653916211293
+    "ImmigOwnEntreRate":62.962962962963
     }
   },
   {
@@ -6378,7 +6378,7 @@
     "INDUS":10,
     "IMMIGRate":16.7414050822123,
     "EntreRate":3.43796711509716,
-    "ImmigOwnEntreRate":1.34529147982063
+    "ImmigOwnEntreRate":39.1304347826087
     }
   },
   {
@@ -6407,7 +6407,7 @@
     "INDUS":10,
     "IMMIGRate":25.0759090572465,
     "EntreRate":6.62075094423461,
-    "ImmigOwnEntreRate":2.15507664963341
+    "ImmigOwnEntreRate":32.5503355704698
     }
   },
   {
@@ -6436,7 +6436,7 @@
     "INDUS":10,
     "IMMIGRate":21.0855949895616,
     "EntreRate":5.8455114822547,
-    "ImmigOwnEntreRate":1.46137787056367
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -6465,7 +6465,7 @@
     "INDUS":10,
     "IMMIGRate":8.75537901357167,
     "EntreRate":4.88248924197286,
-    "ImmigOwnEntreRate":0.297914597815293
+    "ImmigOwnEntreRate":6.10169491525424
     }
   },
   {
@@ -6494,7 +6494,7 @@
     "INDUS":10,
     "IMMIGRate":12.7298444130127,
     "EntreRate":6.08203677510608,
-    "ImmigOwnEntreRate":0.707213578500707
+    "ImmigOwnEntreRate":11.6279069767442
     }
   },
   {
@@ -6523,7 +6523,7 @@
     "INDUS":10,
     "IMMIGRate":2.28571428571429,
     "EntreRate":5.14285714285714,
-    "ImmigOwnEntreRate":0.0952380952380952
+    "ImmigOwnEntreRate":1.85185185185185
     }
   },
   {
@@ -6552,7 +6552,7 @@
     "INDUS":10,
     "IMMIGRate":6.2874251497006,
     "EntreRate":7.95551753635586,
-    "ImmigOwnEntreRate":2.05303678357571
+    "ImmigOwnEntreRate":25.8064516129032
     }
   },
   {
@@ -6581,7 +6581,7 @@
     "INDUS":10,
     "IMMIGRate":17.3913043478261,
     "EntreRate":8.37359098228663,
-    "ImmigOwnEntreRate":1.61030595813204
+    "ImmigOwnEntreRate":19.2307692307692
     }
   },
   {
@@ -6639,7 +6639,7 @@
     "INDUS":10,
     "IMMIGRate":7.3143495254048,
     "EntreRate":6.83975432719151,
-    "ImmigOwnEntreRate":0.670016750418761
+    "ImmigOwnEntreRate":9.79591836734694
     }
   },
   {
@@ -6697,7 +6697,7 @@
     "INDUS":10,
     "IMMIGRate":4.49904275686024,
     "EntreRate":6.98787492022974,
-    "ImmigOwnEntreRate":0.670070197830249
+    "ImmigOwnEntreRate":9.58904109589041
     }
   },
   {
@@ -6755,7 +6755,7 @@
     "INDUS":10,
     "IMMIGRate":3.00230946882217,
     "EntreRate":3.69515011547344,
-    "ImmigOwnEntreRate":0.23094688221709
+    "ImmigOwnEntreRate":6.25
     }
   },
   {
@@ -6784,7 +6784,7 @@
     "INDUS":10,
     "IMMIGRate":6.12691466083151,
     "EntreRate":4.37636761487965,
-    "ImmigOwnEntreRate":0.218818380743982
+    "ImmigOwnEntreRate":5
     }
   },
   {
@@ -6813,7 +6813,7 @@
     "INDUS":10,
     "IMMIGRate":6.12691466083151,
     "EntreRate":4.37636761487965,
-    "ImmigOwnEntreRate":0.218818380743982
+    "ImmigOwnEntreRate":5
     }
   },
   {
@@ -6842,7 +6842,7 @@
     "INDUS":10,
     "IMMIGRate":6.12691466083151,
     "EntreRate":4.37636761487965,
-    "ImmigOwnEntreRate":0.218818380743982
+    "ImmigOwnEntreRate":5
     }
   },
   {
@@ -6900,7 +6900,7 @@
     "INDUS":10,
     "IMMIGRate":22.4756212645486,
     "EntreRate":5.56254587396456,
-    "ImmigOwnEntreRate":1.6829191569676
+    "ImmigOwnEntreRate":30.2544769085768
     }
   },
   {
@@ -6929,7 +6929,7 @@
     "INDUS":10,
     "IMMIGRate":5.25854513584575,
     "EntreRate":6.13496932515337,
-    "ImmigOwnEntreRate":0.175284837861525
+    "ImmigOwnEntreRate":2.85714285714286
     }
   },
   {
@@ -6958,7 +6958,7 @@
     "INDUS":10,
     "IMMIGRate":6.31199278629396,
     "EntreRate":4.14788097385031,
-    "ImmigOwnEntreRate":0.270513976555455
+    "ImmigOwnEntreRate":6.52173913043478
     }
   },
   {
@@ -6987,7 +6987,7 @@
     "INDUS":10,
     "IMMIGRate":5.97014925373134,
     "EntreRate":0.995024875621891,
-    "ImmigOwnEntreRate":0.248756218905473
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -7016,7 +7016,7 @@
     "INDUS":10,
     "IMMIGRate":5.97014925373134,
     "EntreRate":0.995024875621891,
-    "ImmigOwnEntreRate":0.248756218905473
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -7045,7 +7045,7 @@
     "INDUS":10,
     "IMMIGRate":5.97014925373134,
     "EntreRate":0.995024875621891,
-    "ImmigOwnEntreRate":0.248756218905473
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -7074,7 +7074,7 @@
     "INDUS":10,
     "IMMIGRate":5.97014925373134,
     "EntreRate":0.995024875621891,
-    "ImmigOwnEntreRate":0.248756218905473
+    "ImmigOwnEntreRate":25
     }
   },
   {
@@ -7103,7 +7103,7 @@
     "INDUS":10,
     "IMMIGRate":4.73425636444841,
     "EntreRate":4.82358195623046,
-    "ImmigOwnEntreRate":0.669941938365342
+    "ImmigOwnEntreRate":13.8888888888889
     }
   },
   {
@@ -7132,7 +7132,7 @@
     "INDUS":10,
     "IMMIGRate":8.7027027027027,
     "EntreRate":7.02702702702703,
-    "ImmigOwnEntreRate":0.648648648648649
+    "ImmigOwnEntreRate":9.23076923076923
     }
   },
   {
@@ -7161,7 +7161,7 @@
     "INDUS":10,
     "IMMIGRate":6.86567164179105,
     "EntreRate":8.35820895522388,
-    "ImmigOwnEntreRate":1.19402985074627
+    "ImmigOwnEntreRate":14.2857142857143
     }
   },
   {
@@ -7248,7 +7248,7 @@
     "INDUS":10,
     "IMMIGRate":8.96289673670094,
     "EntreRate":6.5042467590523,
-    "ImmigOwnEntreRate":0.491729995529727
+    "ImmigOwnEntreRate":7.56013745704467
     }
   },
   {
@@ -7306,7 +7306,7 @@
     "INDUS":10,
     "IMMIGRate":8.40738209159262,
     "EntreRate":4.23786739576213,
-    "ImmigOwnEntreRate":0.888585099111415
+    "ImmigOwnEntreRate":20.9677419354839
     }
   },
   {
@@ -7335,7 +7335,7 @@
     "INDUS":10,
     "IMMIGRate":4.80349344978166,
     "EntreRate":5.24017467248908,
-    "ImmigOwnEntreRate":0.218340611353712
+    "ImmigOwnEntreRate":4.16666666666667
     }
   },
   {
@@ -7393,7 +7393,7 @@
     "INDUS":10,
     "IMMIGRate":2.83018867924528,
     "EntreRate":3.77358490566038,
-    "ImmigOwnEntreRate":0.377358490566038
+    "ImmigOwnEntreRate":10
     }
   },
   {
@@ -7422,7 +7422,7 @@
     "INDUS":10,
     "IMMIGRate":2.83018867924528,
     "EntreRate":3.77358490566038,
-    "ImmigOwnEntreRate":0.377358490566038
+    "ImmigOwnEntreRate":10
     }
   },
   {
@@ -7451,7 +7451,7 @@
     "INDUS":10,
     "IMMIGRate":2.83018867924528,
     "EntreRate":3.77358490566038,
-    "ImmigOwnEntreRate":0.377358490566038
+    "ImmigOwnEntreRate":10
     }
   },
   {
@@ -7538,7 +7538,7 @@
     "INDUS":10,
     "IMMIGRate":6.24586184065328,
     "EntreRate":5.58375634517767,
-    "ImmigOwnEntreRate":0.441403663650408
+    "ImmigOwnEntreRate":7.90513833992095
     }
   },
   {
@@ -7596,7 +7596,7 @@
     "INDUS":10,
     "IMMIGRate":18.3792600223195,
     "EntreRate":7.08215297450425,
-    "ImmigOwnEntreRate":1.32200188857413
+    "ImmigOwnEntreRate":18.6666666666667
     }
   },
   {
@@ -7654,7 +7654,7 @@
     "INDUS":10,
     "IMMIGRate":5.997334517992,
     "EntreRate":5.81963571745891,
-    "ImmigOwnEntreRate":0.22212350066637
+    "ImmigOwnEntreRate":3.81679389312977
     }
   },
   {
@@ -7683,7 +7683,7 @@
     "INDUS":10,
     "IMMIGRate":10.6508875739645,
     "EntreRate":6.80473372781065,
-    "ImmigOwnEntreRate":0.887573964497041
+    "ImmigOwnEntreRate":13.0434782608696
     }
   },
   {
@@ -7712,7 +7712,7 @@
     "INDUS":10,
     "IMMIGRate":7.58229897463573,
     "EntreRate":4.80302212628171,
-    "ImmigOwnEntreRate":0.890447922288181
+    "ImmigOwnEntreRate":18.5393258426966
     }
   },
   {
@@ -7741,7 +7741,7 @@
     "INDUS":10,
     "IMMIGRate":5.14285714285714,
     "EntreRate":6,
-    "ImmigOwnEntreRate":0.571428571428571
+    "ImmigOwnEntreRate":9.52380952380952
     }
   },
   {
@@ -7770,7 +7770,7 @@
     "INDUS":10,
     "IMMIGRate":1.34589502018843,
     "EntreRate":3.45446388515029,
-    "ImmigOwnEntreRate":0.0897263346792283
+    "ImmigOwnEntreRate":2.5974025974026
     }
   },
   {
@@ -7799,7 +7799,7 @@
     "INDUS":10,
     "IMMIGRate":4.78821362799263,
     "EntreRate":6.62983425414365,
-    "ImmigOwnEntreRate":0.920810313075507
+    "ImmigOwnEntreRate":13.8888888888889
     }
   },
   {
@@ -7828,7 +7828,7 @@
     "INDUS":10,
     "IMMIGRate":9.05292479108635,
     "EntreRate":6.47632311977716,
-    "ImmigOwnEntreRate":1.07938718662953
+    "ImmigOwnEntreRate":16.6666666666667
     }
   },
   {
@@ -7857,7 +7857,7 @@
     "INDUS":10,
     "IMMIGRate":14.6046511627907,
     "EntreRate":6.41860465116279,
-    "ImmigOwnEntreRate":2.23255813953488
+    "ImmigOwnEntreRate":34.7826086956522
     }
   },
   {
@@ -7886,7 +7886,7 @@
     "INDUS":10,
     "IMMIGRate":6.06359378851368,
     "EntreRate":5.32413113137787,
-    "ImmigOwnEntreRate":0.419028839043628
+    "ImmigOwnEntreRate":7.87037037037037
     }
   },
   {
@@ -7944,7 +7944,7 @@
     "INDUS":10,
     "IMMIGRate":11.9201626316762,
     "EntreRate":7.35538717427463,
-    "ImmigOwnEntreRate":1.4045462945851
+    "ImmigOwnEntreRate":19.0954773869347
     }
   },
   {
@@ -8002,7 +8002,7 @@
     "INDUS":10,
     "IMMIGRate":5.70196454240537,
     "EntreRate":4.98322951605175,
-    "ImmigOwnEntreRate":0.52707235265932
+    "ImmigOwnEntreRate":10.5769230769231
     }
   },
   {
@@ -8031,7 +8031,7 @@
     "INDUS":10,
     "IMMIGRate":16.0668380462725,
     "EntreRate":4.88431876606684,
-    "ImmigOwnEntreRate":1.67095115681234
+    "ImmigOwnEntreRate":34.2105263157895
     }
   },
   {
@@ -8060,7 +8060,7 @@
     "INDUS":10,
     "IMMIGRate":8.35734870317003,
     "EntreRate":3.02593659942363,
-    "ImmigOwnEntreRate":0.0960614793467819
+    "ImmigOwnEntreRate":3.17460317460317
     }
   },
   {
@@ -8118,7 +8118,7 @@
     "INDUS":10,
     "IMMIGRate":9.17678812415655,
     "EntreRate":9.44669365721997,
-    "ImmigOwnEntreRate":0.539811066126856
+    "ImmigOwnEntreRate":5.71428571428571
     }
   },
   {
@@ -8176,7 +8176,7 @@
     "INDUS":10,
     "IMMIGRate":15.4557463672391,
     "EntreRate":5.64257407057935,
-    "ImmigOwnEntreRate":1.22664653708247
+    "ImmigOwnEntreRate":21.7391304347826
     }
   },
   {
@@ -8321,7 +8321,7 @@
     "INDUS":10,
     "IMMIGRate":29.8894557823129,
     "EntreRate":8.88605442176871,
-    "ImmigOwnEntreRate":2.93367346938776
+    "ImmigOwnEntreRate":33.0143540669856
     }
   },
   {
@@ -8350,7 +8350,7 @@
     "INDUS":10,
     "IMMIGRate":6.42156862745098,
     "EntreRate":8.40686274509804,
-    "ImmigOwnEntreRate":0.637254901960784
+    "ImmigOwnEntreRate":7.5801749271137
     }
   },
   {
@@ -8379,7 +8379,7 @@
     "INDUS":10,
     "IMMIGRate":20.7789855072464,
     "EntreRate":6.34057971014493,
-    "ImmigOwnEntreRate":1.41908212560386
+    "ImmigOwnEntreRate":22.3809523809524
     }
   },
   {
@@ -8408,7 +8408,7 @@
     "INDUS":10,
     "IMMIGRate":10.7843137254902,
     "EntreRate":7.84313725490196,
-    "ImmigOwnEntreRate":0.490196078431373
+    "ImmigOwnEntreRate":6.25
     }
   },
   {
@@ -8437,7 +8437,7 @@
     "INDUS":10,
     "IMMIGRate":4.60526315789474,
     "EntreRate":8.71710526315789,
-    "ImmigOwnEntreRate":0.328947368421053
+    "ImmigOwnEntreRate":3.77358490566038
     }
   },
   {
