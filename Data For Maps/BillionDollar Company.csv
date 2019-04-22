@@ -1,5 +1,4 @@
-Company,City,State,FoundName01,Country of Birth,FoundName02,Country of Birth,FoundName03,Country of Birth,Product/Service,"Number of
-Employees","Latest Company Valuation (USD, billions)",ImmiOrNot,
+Company,City,State,FoundName01,CountryOfBirth0,FoundName02,CountryOfBirth,FoundName03,CountryOfBirth2,ProductService,EmployeeNum,Valuation,ImmiOrNot,
 ContextLogic,San Francisco,CA,Peter Szulczewski,Canda,Danny Zhang,Canada,,,"Developer of mobile shopping app, Wish",900,3,1,
 Razer,Irvine,CA,Min-Liang Tan,Singapore,,,,,Products directed at gamers,600,1,1,
 Tanium,Emeryville,CA,David Hindawi,Iraq,,,,,IT security and systems management,300,4,1,
