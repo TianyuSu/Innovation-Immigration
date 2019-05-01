@@ -1,0 +1,82 @@
+Company,Valuation,EmployeeNum,FounderNation,ValuPerEmployee,ImmiOrNot,Radius
+Theranos,9.00,25,US,36,0,0.25
+Kodiak Sciences,0.34,28,US,1.21,0,0.28
+Mozido,2.40,40,US,6,0,0.4
+Principia Biopharma,0.57,53,US,1.08,0,0.53
+Tricida,1.14,61,US,1.87,0,0.61
+Arvinas,0.60,72,US,0.83,0,0.72
+Allogene,3.90,78,,5,0,0.78
+Denali Therapeutics,1.40,83,US,1.69,0,0.83
+Gritstone Oncology,0.68,100,US,0.68,0,1
+FanDuel,1.30,159,UK,0.82,1,1.59
+Udacity,1.00,170,Germany,0.59,1,1.7
+Deem,1.40,200,US,0.7,0,2
+CloudFlare,1.00,225,Canada,0.44,1,2.25
+Mode Media,1.00,240,India,0.42,1,2.4
+Instacart,2.00,250,India,0.8,1,2.5
+Tango,1.00,260,Israel,0.38,1,2.6
+Tanium,3.50,300,Iraq,1.17,1,3
+Slack Tehcnologies,2.80,300,Canada,0.93,1,3
+Gusto,1.10,300,Israel,0.37,1,3
+Proteus Digital Health,1.10,300,UK,0.37,1,3
+Intarcia Therapeutics,1.80,300,US,0.6,0,3
+Sprinklr,1.20,325,India,0.37,1,3.25
+Moderna Therapeutics,3.00,326,Armenia,0.92,1,3.26
+Guardant Health,3.00,348,US,0.86,0,3.48
+Infinidat,1.20,350,Israel,0.34,1,3.5
+Actifio,1.10,350,India,0.31,1,3.5
+DraftKings,2.10,350,US,0.6,0,3.5
+Stripe,5.00,380,Ireland,1.32,1,3.8
+Jawbone,3.30,395,UK,0.84,1,3.95
+upwork,2.00,395,US,0.51,0,3.95
+Credit Karma,3.50,400,China,0.88,1,4
+AppDirect,1.90,400,Canada,0.48,1,4
+Evernote,1.00,400,Azerbaijan,0.25,1,4
+Oscar Health Insurance,1.70,415,Germany,0.41,1,4.15
+Jasper,1.40,425,India,0.33,1,4.25
+Prosper Marketplace,1.90,457,US,0.42,0,4.57
+The Honest Company,1.70,517,South Korea,0.33,1,5.17
+CarGurus,4.50,549,US,0.82,0,5.49
+Razer,1.00,600,Singapore,0.17,1,6
+ZocDoc,1.80,600,Germany,0.3,1,6
+MuleSoft,1.50,600,UK,0.25,1,6
+Zscaler,1.00,600,India,0.17,1,6
+SimpliVity,1.00,750,Israel,0.13,1,7.5
+Domo,0.43,796,US,0.05,0,7.96
+Houzz,2.30,800,Israel,0.29,1,8
+Pinterest,11.00,800,US,1.38,0,8
+SailPoint,2.30,806,US,0.29,0,8.06
+ForeScout,1.15,823,US,0.14,0,8.23
+Avant,2.00,850,Uzbekistan,0.24,1,8.5
+Medallia,1.30,850,Norway,0.15,1,8.5
+Nutanix,2.00,864,India,0.23,1,8.64
+Github,2.00,888,US,0.23,0,8.88
+ContextLogic,3.00,900,Canda,0.33,1,9
+Uber Technologies,51.00,900,Canada,5.67,1,9
+GreenSky,2.00,900,US,0.22,0,9
+AppDynamics,1.00,900,India,0.11,1,9
+MongoDB,4.26,962,US,0.44,0,9.62
+Elastic,4.80,994,US,0.48,0,9.94
+AppNexus,1.20,1000,Holland,0.12,1,10
+Eventbrite,2.40,1016,France,0.24,1,10.16
+Tenable,2.65,1054,US,0.25,0,10.54
+Cloudera,4.10,1100,Egypt,0.37,1,11
+Apttus,1.00,1100,UK,0.09,1,11
+Anaplan,3.00,1102,US,0.27,0,11.02
+WeWork,10.00,1200,Israel,0.83,1,12
+Social Finance,4.00,1383,US,0.29,0,13.83
+Bloom Energy,1.90,1409,India,0.13,1,14.09
+Zenefits,4.50,1465,India,0.31,1,14.65
+Sonos,1.20,1478,,0.08,0,14.78
+Dropbox,7.10,1500,US,0.47,0,15
+BuzzFeed,1.50,1701,US,0.09,0,17.01
+Fanatics,3.00,1800,US,0.17,0,18
+Magic Leap,2.00,1801,US,0.11,0,18.01
+Palantir Technologies,20.00,2000,Germany,1,1,20
+DocuSign,6.90,2255,US,0.31,0,22.55
+Blue Apron,0.24,3000,US,0.01,0,30
+Snap,10.00,3069,US,0.33,0,30.69
+Mu Sigma,1.50,3500,India,0.04,1,35
+SpaceX,12.00,4000,South Africa,0.3,1,40
+Lyft,24.30,4791,US,0.51,0,47.91
+Stitch Fix,2.80,6600,US,0.04,0,66
