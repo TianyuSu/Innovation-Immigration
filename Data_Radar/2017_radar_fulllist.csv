@@ -1,0 +1,715 @@
+"","State","industry","X","indmaj2","distriNative","distrImmi","distr"
+"1","Alabama","Agriculture",368,1,0.09,0.017,0.081
+"2","Alabama","Armed Forces",NA,NA,NA,NA,NA
+"3","Alabama","Construction",364,3,0.22,0.224,0.221
+"4","Alabama","Educational and health services",361,10,0.08,0.069,0.079
+"5","Alabama","Financial activities",366,8,0.06,0,0.052
+"6","Alabama","Information",359,7,0,0,0.003
+"7","Alabama","Leisure and hospitality",369,11,0.05,0.069,0.052
+"8","Alabama","Manufacturing",363,4,0.05,0.069,0.049
+"9","Alabama","Mining",NA,NA,NA,NA,NA
+"10","Alabama","Other services",360,12,0.12,0.241,0.129
+"11","Alabama","Professional and business services",365,9,0.17,0.207,0.168
+"12","Alabama","Public administration",NA,NA,NA,NA,NA
+"13","Alabama","Transportation and utilities",362,6,0.06,0,0.059
+"14","Alabama","Wholesale & retail trade",367,5,0.11,0.103,0.108
+"15","Alaska","Agriculture",558,1,0.05,0,0.043
+"16","Alaska","Armed Forces",NA,NA,NA,NA,NA
+"17","Alaska","Construction",557,3,0.16,0.181,0.165
+"18","Alaska","Educational and health services",562,10,0.15,0.167,0.149
+"19","Alaska","Financial activities",560,8,0.09,0,0.081
+"20","Alaska","Information",556,7,0.02,0,0.022
+"21","Alaska","Leisure and hospitality",559,11,0.11,0.264,0.123
+"22","Alaska","Manufacturing",561,4,0.05,0.014,0.047
+"23","Alaska","Mining",NA,NA,NA,NA,NA
+"24","Alaska","Other services",555,12,0.05,0.056,0.049
+"25","Alaska","Professional and business services",565,9,0.14,0.139,0.139
+"26","Alaska","Public administration",NA,NA,NA,NA,NA
+"27","Alaska","Transportation and utilities",564,6,0.02,0.028,0.022
+"28","Alaska","Wholesale & retail trade",563,5,0.16,0.153,0.16
+"29","Arizona","Agriculture",489,1,0.03,0.004,0.024
+"30","Arizona","Armed Forces",NA,NA,NA,NA,NA
+"31","Arizona","Construction",491,3,0.15,0.211,0.167
+"32","Arizona","Educational and health services",490,10,0.09,0.089,0.092
+"33","Arizona","Financial activities",487,8,0.09,0.049,0.079
+"34","Arizona","Information",495,7,0.01,0,0.004
+"35","Arizona","Leisure and hospitality",492,11,0.08,0.012,0.064
+"36","Arizona","Manufacturing",497,4,0.05,0.053,0.051
+"37","Arizona","Mining",NA,NA,NA,NA,NA
+"38","Arizona","Other services",488,12,0.08,0.113,0.092
+"39","Arizona","Professional and business services",494,9,0.28,0.348,0.296
+"40","Arizona","Public administration",NA,NA,NA,NA,NA
+"41","Arizona","Transportation and utilities",493,6,0.05,0.045,0.045
+"42","Arizona","Wholesale & retail trade",496,5,0.09,0.077,0.084
+"43","Arkansas","Agriculture",388,1,0.09,0.063,0.084
+"44","Arkansas","Armed Forces",NA,NA,NA,NA,NA
+"45","Arkansas","Construction",389,3,0.25,0.143,0.242
+"46","Arkansas","Educational and health services",386,10,0.08,0.175,0.089
+"47","Arkansas","Financial activities",390,8,0.07,0,0.066
+"48","Arkansas","Information",385,7,0,0,0.005
+"49","Arkansas","Leisure and hospitality",392,11,0.05,0.143,0.06
+"50","Arkansas","Manufacturing",387,4,0.02,0,0.021
+"51","Arkansas","Mining",NA,NA,NA,NA,NA
+"52","Arkansas","Other services",391,12,0.14,0.111,0.138
+"53","Arkansas","Professional and business services",384,9,0.1,0.222,0.108
+"54","Arkansas","Public administration",NA,NA,NA,NA,NA
+"55","Arkansas","Transportation and utilities",382,6,0.06,0.079,0.061
+"56","Arkansas","Wholesale & retail trade",383,5,0.13,0.063,0.126
+"57","California","Agriculture",544,1,0.02,0.005,0.012
+"58","California","Armed Forces",NA,NA,NA,NA,NA
+"59","California","Construction",552,3,0.12,0.16,0.137
+"60","California","Educational and health services",545,10,0.09,0.099,0.093
+"61","California","Financial activities",554,8,0.1,0.051,0.084
+"62","California","Information",550,7,0.05,0.018,0.036
+"63","California","Leisure and hospitality",553,11,0.08,0.068,0.078
+"64","California","Manufacturing",543,4,0.04,0.021,0.033
+"65","California","Mining",549,2,0,0,0.001
+"66","California","Other services",551,12,0.09,0.098,0.094
+"67","California","Professional and business services",547,9,0.28,0.272,0.278
+"68","California","Public administration",NA,NA,NA,NA,NA
+"69","California","Transportation and utilities",546,6,0.03,0.084,0.048
+"70","California","Wholesale & retail trade",548,5,0.1,0.124,0.106
+"71","Colorado","Agriculture",470,1,0.11,0,0.097
+"72","Colorado","Armed Forces",NA,NA,NA,NA,NA
+"73","Colorado","Construction",472,3,0.17,0.281,0.183
+"74","Colorado","Educational and health services",474,10,0.1,0.177,0.104
+"75","Colorado","Financial activities",469,8,0.08,0.042,0.078
+"76","Colorado","Information",465,7,0.02,0,0.016
+"77","Colorado","Leisure and hospitality",471,11,0.08,0.094,0.081
+"78","Colorado","Manufacturing",467,4,0.04,0.062,0.04
+"79","Colorado","Mining",463,2,0,0.01,0.001
+"80","Colorado","Other services",473,12,0.09,0.083,0.092
+"81","Colorado","Professional and business services",464,9,0.21,0.146,0.2
+"82","Colorado","Public administration",NA,NA,NA,NA,NA
+"83","Colorado","Transportation and utilities",466,6,0.02,0.062,0.026
+"84","Colorado","Wholesale & retail trade",468,5,0.09,0.042,0.082
+"85","Connecticut","Agriculture",62,1,0.01,0,0.011
+"86","Connecticut","Armed Forces",NA,NA,NA,NA,NA
+"87","Connecticut","Construction",63,3,0.18,0.208,0.189
+"88","Connecticut","Educational and health services",65,10,0.13,0.05,0.109
+"89","Connecticut","Financial activities",58,8,0.1,0.025,0.087
+"90","Connecticut","Information",57,7,0.01,0,0.011
+"91","Connecticut","Leisure and hospitality",61,11,0.07,0.075,0.075
+"92","Connecticut","Manufacturing",60,4,0.05,0.033,0.045
+"93","Connecticut","Mining",NA,NA,NA,NA,NA
+"94","Connecticut","Other services",56,12,0.06,0.15,0.078
+"95","Connecticut","Professional and business services",66,9,0.25,0.367,0.273
+"96","Connecticut","Public administration",NA,NA,NA,NA,NA
+"97","Connecticut","Transportation and utilities",59,6,0.02,0.025,0.022
+"98","Connecticut","Wholesale & retail trade",64,5,0.11,0.067,0.1
+"99","Delaware","Agriculture",247,1,0.04,0.025,0.04
+"100","Delaware","Armed Forces",NA,NA,NA,NA,NA
+"101","Delaware","Construction",241,3,0.28,0.203,0.268
+"102","Delaware","Educational and health services",245,10,0.16,0.089,0.149
+"103","Delaware","Financial activities",243,8,0.05,0.051,0.046
+"104","Delaware","Information",240,7,0.01,0,0.008
+"105","Delaware","Leisure and hospitality",238,11,0.11,0.089,0.103
+"106","Delaware","Manufacturing",248,4,0.01,0,0.01
+"107","Delaware","Mining",242,2,0,0,0.004
+"108","Delaware","Other services",244,12,0.06,0.013,0.056
+"109","Delaware","Professional and business services",237,9,0.2,0.177,0.197
+"110","Delaware","Public administration",NA,NA,NA,NA,NA
+"111","Delaware","Transportation and utilities",246,6,0.02,0.101,0.034
+"112","Delaware","Wholesale & retail trade",239,5,0.05,0.253,0.085
+"113","Florida","Agriculture",328,1,0.03,0.01,0.021
+"114","Florida","Armed Forces",NA,NA,NA,NA,NA
+"115","Florida","Construction",331,3,0.17,0.202,0.183
+"116","Florida","Educational and health services",334,10,0.08,0.077,0.08
+"117","Florida","Financial activities",332,8,0.09,0.074,0.083
+"118","Florida","Information",336,7,0.03,0.011,0.021
+"119","Florida","Leisure and hospitality",329,11,0.08,0.072,0.074
+"120","Florida","Manufacturing",337,4,0.03,0.023,0.028
+"121","Florida","Mining",NA,NA,NA,NA,NA
+"122","Florida","Other services",330,12,0.11,0.084,0.102
+"123","Florida","Professional and business services",327,9,0.24,0.224,0.236
+"124","Florida","Public administration",NA,NA,NA,NA,NA
+"125","Florida","Transportation and utilities",335,6,0.03,0.113,0.061
+"126","Florida","Wholesale & retail trade",333,5,0.11,0.11,0.11
+"127","Georgia","Agriculture",316,1,0.03,0.09,0.042
+"128","Georgia","Armed Forces",NA,NA,NA,NA,NA
+"129","Georgia","Construction",320,3,0.17,0.205,0.175
+"130","Georgia","Educational and health services",321,10,0.11,0.03,0.1
+"131","Georgia","Financial activities",322,8,0.08,0.015,0.072
+"132","Georgia","Information",318,7,0.02,0,0.014
+"133","Georgia","Leisure and hospitality",325,11,0.07,0.095,0.077
+"134","Georgia","Manufacturing",323,4,0.04,0.01,0.036
+"135","Georgia","Mining",NA,NA,NA,NA,NA
+"136","Georgia","Other services",324,12,0.1,0.185,0.109
+"137","Georgia","Professional and business services",317,9,0.22,0.215,0.218
+"138","Georgia","Public administration",NA,NA,NA,NA,NA
+"139","Georgia","Transportation and utilities",319,6,0.06,0.04,0.057
+"140","Georgia","Wholesale & retail trade",326,5,0.1,0.115,0.1
+"141","Hawaii","Agriculture",573,1,0.06,0.028,0.049
+"142","Hawaii","Armed Forces",NA,NA,NA,NA,NA
+"143","Hawaii","Construction",575,3,0.1,0.107,0.099
+"144","Hawaii","Educational and health services",570,10,0.1,0.098,0.1
+"145","Hawaii","Financial activities",569,8,0.09,0.047,0.08
+"146","Hawaii","Information",567,7,0.02,0,0.016
+"147","Hawaii","Leisure and hospitality",571,11,0.12,0.121,0.12
+"148","Hawaii","Manufacturing",574,4,0.07,0.037,0.06
+"149","Hawaii","Mining",NA,NA,NA,NA,NA
+"150","Hawaii","Other services",568,12,0.1,0.084,0.099
+"151","Hawaii","Professional and business services",572,9,0.23,0.209,0.225
+"152","Hawaii","Public administration",NA,NA,NA,NA,NA
+"153","Hawaii","Transportation and utilities",576,6,0.05,0.084,0.058
+"154","Hawaii","Wholesale & retail trade",566,5,0.06,0.186,0.095
+"155","Idaho","Agriculture",446,1,0.08,0,0.081
+"156","Idaho","Armed Forces",NA,NA,NA,NA,NA
+"157","Idaho","Construction",441,3,0.21,0.173,0.204
+"158","Idaho","Educational and health services",440,10,0.08,0.154,0.081
+"159","Idaho","Financial activities",450,8,0.12,0.135,0.125
+"160","Idaho","Information",448,7,0,0,0.004
+"161","Idaho","Leisure and hospitality",447,11,0.05,0.25,0.056
+"162","Idaho","Manufacturing",449,4,0.08,0.019,0.073
+"163","Idaho","Mining",NA,NA,NA,NA,NA
+"164","Idaho","Other services",442,12,0.11,0.154,0.113
+"165","Idaho","Professional and business services",444,9,0.17,0.115,0.163
+"166","Idaho","Public administration",NA,NA,NA,NA,NA
+"167","Idaho","Transportation and utilities",445,6,0.03,0,0.033
+"168","Idaho","Wholesale & retail trade",443,5,0.07,0,0.068
+"169","Illinois","Agriculture",126,1,0.05,0.003,0.043
+"170","Illinois","Armed Forces",NA,NA,NA,NA,NA
+"171","Illinois","Construction",134,3,0.15,0.227,0.162
+"172","Illinois","Educational and health services",133,10,0.11,0.106,0.108
+"173","Illinois","Financial activities",130,8,0.09,0.037,0.078
+"174","Illinois","Information",131,7,0,0.012,0.006
+"175","Illinois","Leisure and hospitality",125,11,0.07,0.05,0.062
+"176","Illinois","Manufacturing",124,4,0.06,0.062,0.058
+"177","Illinois","Mining",NA,NA,NA,NA,NA
+"178","Illinois","Other services",129,12,0.1,0.099,0.099
+"179","Illinois","Professional and business services",132,9,0.24,0.165,0.224
+"180","Illinois","Public administration",NA,NA,NA,NA,NA
+"181","Illinois","Transportation and utilities",128,6,0.05,0.124,0.065
+"182","Illinois","Wholesale & retail trade",127,5,0.09,0.115,0.096
+"183","Indiana","Agriculture",117,1,0.09,0,0.083
+"184","Indiana","Armed Forces",NA,NA,NA,NA,NA
+"185","Indiana","Construction",121,3,0.26,0.181,0.249
+"186","Indiana","Educational and health services",118,10,0.08,0.253,0.095
+"187","Indiana","Financial activities",120,8,0.08,0,0.067
+"188","Indiana","Information",119,7,0.03,0,0.028
+"189","Indiana","Leisure and hospitality",116,11,0.04,0.325,0.067
+"190","Indiana","Manufacturing",113,4,0.04,0.048,0.039
+"191","Indiana","Mining",NA,NA,NA,NA,NA
+"192","Indiana","Other services",115,12,0.11,0.072,0.104
+"193","Indiana","Professional and business services",114,9,0.15,0.084,0.144
+"194","Indiana","Public administration",NA,NA,NA,NA,NA
+"195","Indiana","Transportation and utilities",122,6,0.04,0.012,0.037
+"196","Indiana","Wholesale & retail trade",123,5,0.09,0.024,0.086
+"197","Iowa","Agriculture",172,1,0.22,0,0.21
+"198","Iowa","Armed Forces",NA,NA,NA,NA,NA
+"199","Iowa","Construction",173,3,0.18,0.059,0.176
+"200","Iowa","Educational and health services",170,10,0.19,0.118,0.187
+"201","Iowa","Financial activities",171,8,0.06,0,0.057
+"202","Iowa","Information",176,7,0.03,0,0.026
+"203","Iowa","Leisure and hospitality",177,11,0.04,0.324,0.055
+"204","Iowa","Manufacturing",169,4,0.03,0,0.026
+"205","Iowa","Mining",NA,NA,NA,NA,NA
+"206","Iowa","Other services",178,12,0.05,0,0.043
+"207","Iowa","Professional and business services",168,9,0.12,0.118,0.116
+"208","Iowa","Public administration",NA,NA,NA,NA,NA
+"209","Iowa","Transportation and utilities",174,6,0.04,0.147,0.041
+"210","Iowa","Wholesale & retail trade",175,5,0.05,0.235,0.063
+"211","Kansas","Agriculture",230,1,0.13,0,0.117
+"212","Kansas","Armed Forces",NA,NA,NA,NA,NA
+"213","Kansas","Construction",225,3,0.2,0.365,0.215
+"214","Kansas","Educational and health services",232,10,0.1,0,0.094
+"215","Kansas","Financial activities",231,8,0.03,0,0.032
+"216","Kansas","Information",235,7,0,0,0.005
+"217","Kansas","Leisure and hospitality",234,11,0.04,0.231,0.059
+"218","Kansas","Manufacturing",228,4,0.03,0,0.026
+"219","Kansas","Mining",229,2,0.02,0,0.021
+"220","Kansas","Other services",227,12,0.07,0.096,0.07
+"221","Kansas","Professional and business services",226,9,0.23,0.269,0.229
+"222","Kansas","Public administration",NA,NA,NA,NA,NA
+"223","Kansas","Transportation and utilities",236,6,0.04,0,0.041
+"224","Kansas","Wholesale & retail trade",233,5,0.1,0.038,0.092
+"225","Kentucky","Agriculture",347,1,0.17,0.071,0.165
+"226","Kentucky","Armed Forces",NA,NA,NA,NA,NA
+"227","Kentucky","Construction",340,3,0.23,0.286,0.231
+"228","Kentucky","Educational and health services",339,10,0.08,0,0.079
+"229","Kentucky","Financial activities",344,8,0.07,0,0.068
+"230","Kentucky","Information",NA,NA,NA,NA,NA
+"231","Kentucky","Leisure and hospitality",342,11,0.05,0.036,0.05
+"232","Kentucky","Manufacturing",341,4,0.03,0.143,0.036
+"233","Kentucky","Mining",NA,NA,NA,NA,NA
+"234","Kentucky","Other services",345,12,0.09,0,0.083
+"235","Kentucky","Professional and business services",338,9,0.12,0.464,0.136
+"236","Kentucky","Public administration",NA,NA,NA,NA,NA
+"237","Kentucky","Transportation and utilities",346,6,0.03,0,0.033
+"238","Kentucky","Wholesale & retail trade",343,5,0.12,0,0.119
+"239","Louisiana","Agriculture",402,1,0.04,0.006,0.038
+"240","Louisiana","Armed Forces",NA,NA,NA,NA,NA
+"241","Louisiana","Construction",400,3,0.16,0.218,0.172
+"242","Louisiana","Educational and health services",394,10,0.1,0.092,0.102
+"243","Louisiana","Financial activities",393,8,0.09,0.023,0.08
+"244","Louisiana","Information",398,7,0.01,0,0.007
+"245","Louisiana","Leisure and hospitality",397,11,0.07,0.092,0.077
+"246","Louisiana","Manufacturing",401,4,0.04,0.006,0.032
+"247","Louisiana","Mining",399,2,0.01,0,0.007
+"248","Louisiana","Other services",404,12,0.11,0.144,0.115
+"249","Louisiana","Professional and business services",396,9,0.18,0.218,0.187
+"250","Louisiana","Public administration",NA,NA,NA,NA,NA
+"251","Louisiana","Transportation and utilities",403,6,0.06,0.029,0.054
+"252","Louisiana","Wholesale & retail trade",395,5,0.12,0.172,0.128
+"253","Maine","Agriculture",1,1,0.12,0,0.121
+"254","Maine","Armed Forces",NA,NA,NA,NA,NA
+"255","Maine","Construction",5,3,0.26,0,0.258
+"256","Maine","Educational and health services",2,10,0.09,0.5,0.089
+"257","Maine","Financial activities",8,8,0.07,0,0.065
+"258","Maine","Information",NA,NA,NA,NA,NA
+"259","Maine","Leisure and hospitality",4,11,0.05,0,0.047
+"260","Maine","Manufacturing",6,4,0.05,0.375,0.054
+"261","Maine","Mining",NA,NA,NA,NA,NA
+"262","Maine","Other services",3,12,0.07,0,0.07
+"263","Maine","Professional and business services",9,9,0.17,0.125,0.17
+"264","Maine","Public administration",NA,NA,NA,NA,NA
+"265","Maine","Transportation and utilities",7,6,0.02,0,0.022
+"266","Maine","Wholesale & retail trade",10,5,0.1,0,0.103
+"267","Maryland","Agriculture",252,1,0.06,0,0.041
+"268","Maryland","Armed Forces",NA,NA,NA,NA,NA
+"269","Maryland","Construction",259,3,0.2,0.212,0.2
+"270","Maryland","Educational and health services",257,10,0.15,0.095,0.137
+"271","Maryland","Financial activities",251,8,0.06,0.061,0.06
+"272","Maryland","Information",249,7,0.01,0,0.004
+"273","Maryland","Leisure and hospitality",255,11,0.04,0.05,0.041
+"274","Maryland","Manufacturing",254,4,0.01,0,0.009
+"275","Maryland","Mining",NA,NA,NA,NA,NA
+"276","Maryland","Other services",256,12,0.09,0.117,0.097
+"277","Maryland","Professional and business services",253,9,0.27,0.212,0.251
+"278","Maryland","Public administration",NA,NA,NA,NA,NA
+"279","Maryland","Transportation and utilities",250,6,0.04,0.112,0.056
+"280","Maryland","Wholesale & retail trade",258,5,0.09,0.14,0.103
+"281","Massachusetts","Agriculture",41,1,0.02,0,0.014
+"282","Massachusetts","Armed Forces",NA,NA,NA,NA,NA
+"283","Massachusetts","Construction",36,3,0.21,0.179,0.202
+"284","Massachusetts","Educational and health services",37,10,0.11,0.105,0.11
+"285","Massachusetts","Financial activities",39,8,0.11,0.039,0.093
+"286","Massachusetts","Information",38,7,0.01,0,0.007
+"287","Massachusetts","Leisure and hospitality",40,11,0.06,0.039,0.052
+"288","Massachusetts","Manufacturing",43,4,0.03,0.019,0.029
+"289","Massachusetts","Mining",NA,NA,NA,NA,NA
+"290","Massachusetts","Other services",35,12,0.07,0.062,0.066
+"291","Massachusetts","Professional and business services",34,9,0.26,0.327,0.278
+"292","Massachusetts","Public administration",NA,NA,NA,NA,NA
+"293","Massachusetts","Transportation and utilities",42,6,0.02,0.047,0.026
+"294","Massachusetts","Wholesale & retail trade",44,5,0.11,0.183,0.124
+"295","Michigan","Agriculture",137,1,0.03,0.012,0.032
+"296","Michigan","Armed Forces",NA,NA,NA,NA,NA
+"297","Michigan","Construction",143,3,0.22,0.174,0.216
+"298","Michigan","Educational and health services",136,10,0.14,0.035,0.133
+"299","Michigan","Financial activities",145,8,0.06,0.012,0.056
+"300","Michigan","Information",139,7,0.02,0,0.017
+"301","Michigan","Leisure and hospitality",138,11,0.07,0.116,0.07
+"302","Michigan","Manufacturing",135,4,0.07,0,0.062
+"303","Michigan","Mining",NA,NA,NA,NA,NA
+"304","Michigan","Other services",144,12,0.08,0.081,0.082
+"305","Michigan","Professional and business services",142,9,0.19,0.349,0.203
+"306","Michigan","Public administration",NA,NA,NA,NA,NA
+"307","Michigan","Transportation and utilities",141,6,0.04,0.07,0.04
+"308","Michigan","Wholesale & retail trade",140,5,0.08,0.151,0.089
+"309","Minnesota","Agriculture",166,1,0.14,0,0.135
+"310","Minnesota","Armed Forces",NA,NA,NA,NA,NA
+"311","Minnesota","Construction",160,3,0.16,0.045,0.154
+"312","Minnesota","Educational and health services",163,10,0.11,0.091,0.109
+"313","Minnesota","Financial activities",167,8,0.07,0.182,0.078
+"314","Minnesota","Information",158,7,0.01,0,0.01
+"315","Minnesota","Leisure and hospitality",165,11,0.06,0.023,0.059
+"316","Minnesota","Manufacturing",157,4,0.07,0,0.066
+"317","Minnesota","Mining",NA,NA,NA,NA,NA
+"318","Minnesota","Other services",161,12,0.08,0,0.078
+"319","Minnesota","Professional and business services",162,9,0.15,0.409,0.161
+"320","Minnesota","Public administration",NA,NA,NA,NA,NA
+"321","Minnesota","Transportation and utilities",164,6,0.05,0.205,0.058
+"322","Minnesota","Wholesale & retail trade",159,5,0.09,0.045,0.092
+"323","Mississippi","Agriculture",373,1,0.08,0.095,0.081
+"324","Mississippi","Armed Forces",NA,NA,NA,NA,NA
+"325","Mississippi","Construction",370,3,0.26,0.238,0.254
+"326","Mississippi","Educational and health services",376,10,0.1,0,0.093
+"327","Mississippi","Financial activities",380,8,0.07,0,0.069
+"328","Mississippi","Information",371,7,0.01,0,0.007
+"329","Mississippi","Leisure and hospitality",375,11,0.04,0,0.036
+"330","Mississippi","Manufacturing",377,4,0.02,0,0.022
+"331","Mississippi","Mining",374,2,0,0,0.002
+"332","Mississippi","Other services",378,12,0.12,0,0.109
+"333","Mississippi","Professional and business services",379,9,0.16,0.357,0.17
+"334","Mississippi","Public administration",NA,NA,NA,NA,NA
+"335","Mississippi","Transportation and utilities",381,6,0.08,0.071,0.076
+"336","Mississippi","Wholesale & retail trade",372,5,0.07,0.238,0.08
+"337","Missouri","Agriculture",185,1,0.14,0,0.134
+"338","Missouri","Armed Forces",NA,NA,NA,NA,NA
+"339","Missouri","Construction",180,3,0.17,0.25,0.174
+"340","Missouri","Educational and health services",184,10,0.07,0,0.065
+"341","Missouri","Financial activities",182,8,0.1,0,0.099
+"342","Missouri","Information",188,7,0.01,0,0.005
+"343","Missouri","Leisure and hospitality",183,11,0.04,0.094,0.04
+"344","Missouri","Manufacturing",187,4,0.03,0,0.027
+"345","Missouri","Mining",NA,NA,NA,NA,NA
+"346","Missouri","Other services",186,12,0.13,0.25,0.133
+"347","Missouri","Professional and business services",179,9,0.21,0.375,0.215
+"348","Missouri","Public administration",NA,NA,NA,NA,NA
+"349","Missouri","Transportation and utilities",181,6,0.03,0,0.026
+"350","Missouri","Wholesale & retail trade",189,5,0.09,0.031,0.083
+"351","Montana","Agriculture",430,1,0.18,0.22,0.18
+"352","Montana","Armed Forces",NA,NA,NA,NA,NA
+"353","Montana","Construction",431,3,0.19,0.2,0.195
+"354","Montana","Educational and health services",432,10,0.09,0.14,0.087
+"355","Montana","Financial activities",439,8,0.08,0.08,0.076
+"356","Montana","Information",437,7,0,0,0.004
+"357","Montana","Leisure and hospitality",438,11,0.07,0,0.066
+"358","Montana","Manufacturing",433,4,0.03,0.02,0.03
+"359","Montana","Mining",NA,NA,NA,NA,NA
+"360","Montana","Other services",434,12,0.11,0.08,0.112
+"361","Montana","Professional and business services",429,9,0.15,0.2,0.153
+"362","Montana","Public administration",NA,NA,NA,NA,NA
+"363","Montana","Transportation and utilities",436,6,0.02,0,0.015
+"364","Montana","Wholesale & retail trade",435,5,0.08,0.06,0.081
+"365","Nebraska","Agriculture",224,1,0.19,0,0.183
+"366","Nebraska","Armed Forces",NA,NA,NA,NA,NA
+"367","Nebraska","Construction",214,3,0.17,0.286,0.175
+"368","Nebraska","Educational and health services",215,10,0.12,0.204,0.125
+"369","Nebraska","Financial activities",216,8,0.06,0,0.057
+"370","Nebraska","Information",220,7,0.01,0,0.006
+"371","Nebraska","Leisure and hospitality",222,11,0.05,0,0.051
+"372","Nebraska","Manufacturing",221,4,0.02,0.286,0.035
+"373","Nebraska","Mining",NA,NA,NA,NA,NA
+"374","Nebraska","Other services",217,12,0.07,0.102,0.074
+"375","Nebraska","Professional and business services",218,9,0.18,0.061,0.178
+"376","Nebraska","Public administration",NA,NA,NA,NA,NA
+"377","Nebraska","Transportation and utilities",223,6,0.05,0.02,0.046
+"378","Nebraska","Wholesale & retail trade",219,5,0.07,0.041,0.071
+"379","Nevada","Agriculture",513,1,0.02,0,0.015
+"380","Nevada","Armed Forces",NA,NA,NA,NA,NA
+"381","Nevada","Construction",517,3,0.04,0.102,0.057
+"382","Nevada","Educational and health services",510,10,0.11,0.063,0.099
+"383","Nevada","Financial activities",511,8,0.12,0.11,0.119
+"384","Nevada","Information",515,7,0.03,0,0.019
+"385","Nevada","Leisure and hospitality",514,11,0.06,0.071,0.063
+"386","Nevada","Manufacturing",519,4,0.05,0.008,0.036
+"387","Nevada","Mining",NA,NA,NA,NA,NA
+"388","Nevada","Other services",509,12,0.15,0.102,0.138
+"389","Nevada","Professional and business services",512,9,0.23,0.252,0.239
+"390","Nevada","Public administration",NA,NA,NA,NA,NA
+"391","Nevada","Transportation and utilities",518,6,0.08,0.102,0.082
+"392","Nevada","Wholesale & retail trade",516,5,0.11,0.189,0.132
+"393","New Hampshire","Agriculture",21,1,0.05,0.049,0.053
+"394","New Hampshire","Armed Forces",NA,NA,NA,NA,NA
+"395","New Hampshire","Construction",18,3,0.2,0.099,0.195
+"396","New Hampshire","Educational and health services",22,10,0.07,0.037,0.07
+"397","New Hampshire","Financial activities",19,8,0.1,0.099,0.096
+"398","New Hampshire","Information",17,7,0.03,0.049,0.031
+"399","New Hampshire","Leisure and hospitality",12,11,0.05,0.111,0.057
+"400","New Hampshire","Manufacturing",13,4,0.09,0.123,0.091
+"401","New Hampshire","Mining",15,2,0,0,0.002
+"402","New Hampshire","Other services",20,12,0.09,0.185,0.101
+"403","New Hampshire","Professional and business services",16,9,0.2,0.136,0.191
+"404","New Hampshire","Public administration",NA,NA,NA,NA,NA
+"405","New Hampshire","Transportation and utilities",11,6,0.03,0,0.024
+"406","New Hampshire","Wholesale & retail trade",14,5,0.09,0.111,0.089
+"407","New Jersey","Agriculture",78,1,0.02,0.004,0.014
+"408","New Jersey","Armed Forces",NA,NA,NA,NA,NA
+"409","New Jersey","Construction",81,3,0.21,0.14,0.189
+"410","New Jersey","Educational and health services",87,10,0.18,0.097,0.157
+"411","New Jersey","Financial activities",79,8,0.06,0.105,0.069
+"412","New Jersey","Information",85,7,0.02,0.031,0.019
+"413","New Jersey","Leisure and hospitality",88,11,0.09,0.093,0.091
+"414","New Jersey","Manufacturing",84,4,0.01,0.031,0.017
+"415","New Jersey","Mining",NA,NA,NA,NA,NA
+"416","New Jersey","Other services",82,12,0.07,0.008,0.056
+"417","New Jersey","Professional and business services",86,9,0.25,0.233,0.242
+"418","New Jersey","Public administration",NA,NA,NA,NA,NA
+"419","New Jersey","Transportation and utilities",83,6,0.03,0.136,0.057
+"420","New Jersey","Wholesale & retail trade",80,5,0.08,0.124,0.089
+"421","New Mexico","Agriculture",477,1,0.06,0.024,0.049
+"422","New Mexico","Armed Forces",NA,NA,NA,NA,NA
+"423","New Mexico","Construction",484,3,0.18,0.25,0.193
+"424","New Mexico","Educational and health services",481,10,0.1,0.085,0.099
+"425","New Mexico","Financial activities",479,8,0.05,0.005,0.04
+"426","New Mexico","Information",475,7,0.03,0,0.026
+"427","New Mexico","Leisure and hospitality",486,11,0.09,0.066,0.081
+"428","New Mexico","Manufacturing",478,4,0.05,0.019,0.043
+"429","New Mexico","Mining",476,2,0.01,0,0.007
+"430","New Mexico","Other services",485,12,0.11,0.127,0.116
+"431","New Mexico","Professional and business services",480,9,0.19,0.292,0.211
+"432","New Mexico","Public administration",NA,NA,NA,NA,NA
+"433","New Mexico","Transportation and utilities",482,6,0.06,0.057,0.059
+"434","New Mexico","Wholesale & retail trade",483,5,0.07,0.075,0.075
+"435","New York","Agriculture",69,1,0.02,0.002,0.015
+"436","New York","Armed Forces",NA,NA,NA,NA,NA
+"437","New York","Construction",68,3,0.15,0.091,0.133
+"438","New York","Educational and health services",73,10,0.11,0.132,0.114
+"439","New York","Financial activities",70,8,0.08,0.046,0.074
+"440","New York","Information",67,7,0.03,0.024,0.027
+"441","New York","Leisure and hospitality",72,11,0.1,0.095,0.096
+"442","New York","Manufacturing",74,4,0.04,0.026,0.04
+"443","New York","Mining",NA,NA,NA,NA,NA
+"444","New York","Other services",76,12,0.09,0.071,0.082
+"445","New York","Professional and business services",75,9,0.26,0.288,0.266
+"446","New York","Public administration",NA,NA,NA,NA,NA
+"447","New York","Transportation and utilities",71,6,0.03,0.11,0.05
+"448","New York","Wholesale & retail trade",77,5,0.1,0.115,0.104
+"449","North Carolina","Agriculture",303,1,0.03,0.035,0.028
+"450","North Carolina","Armed Forces",NA,NA,NA,NA,NA
+"451","North Carolina","Construction",302,3,0.21,0.318,0.223
+"452","North Carolina","Educational and health services",298,10,0.11,0.029,0.097
+"453","North Carolina","Financial activities",300,8,0.08,0.139,0.091
+"454","North Carolina","Information",299,7,0.02,0,0.019
+"455","North Carolina","Leisure and hospitality",301,11,0.06,0.058,0.062
+"456","North Carolina","Manufacturing",296,4,0.04,0.052,0.043
+"457","North Carolina","Mining",NA,NA,NA,NA,NA
+"458","North Carolina","Other services",295,12,0.1,0.029,0.086
+"459","North Carolina","Professional and business services",304,9,0.26,0.133,0.238
+"460","North Carolina","Public administration",NA,NA,NA,NA,NA
+"461","North Carolina","Transportation and utilities",297,6,0.02,0.075,0.026
+"462","North Carolina","Wholesale & retail trade",294,5,0.08,0.133,0.085
+"463","North Dakota","Agriculture",199,1,0.36,0,0.355
+"464","North Dakota","Armed Forces",NA,NA,NA,NA,NA
+"465","North Dakota","Construction",195,3,0.1,0.353,0.102
+"466","North Dakota","Educational and health services",192,10,0.12,0.059,0.119
+"467","North Dakota","Financial activities",201,8,0.06,0,0.058
+"468","North Dakota","Information",197,7,0.01,0,0.012
+"469","North Dakota","Leisure and hospitality",200,11,0.04,0,0.044
+"470","North Dakota","Manufacturing",191,4,0.02,0,0.022
+"471","North Dakota","Mining",193,2,0.01,0.235,0.017
+"472","North Dakota","Other services",198,12,0.09,0,0.087
+"473","North Dakota","Professional and business services",196,9,0.07,0.176,0.072
+"474","North Dakota","Public administration",NA,NA,NA,NA,NA
+"475","North Dakota","Transportation and utilities",190,6,0.04,0,0.04
+"476","North Dakota","Wholesale & retail trade",194,5,0.07,0.176,0.073
+"477","Ohio","Agriculture",103,1,0.05,0,0.05
+"478","Ohio","Armed Forces",NA,NA,NA,NA,NA
+"479","Ohio","Construction",110,3,0.19,0.154,0.184
+"480","Ohio","Educational and health services",101,10,0.1,0.121,0.105
+"481","Ohio","Financial activities",102,8,0.08,0.066,0.075
+"482","Ohio","Information",104,7,0.02,0,0.017
+"483","Ohio","Leisure and hospitality",108,11,0.06,0.176,0.071
+"484","Ohio","Manufacturing",111,4,0.05,0.033,0.052
+"485","Ohio","Mining",109,2,0,0,0.003
+"486","Ohio","Other services",107,12,0.1,0.176,0.108
+"487","Ohio","Professional and business services",112,9,0.21,0.132,0.201
+"488","Ohio","Public administration",NA,NA,NA,NA,NA
+"489","Ohio","Transportation and utilities",105,6,0.02,0.066,0.021
+"490","Ohio","Wholesale & retail trade",106,5,0.12,0.077,0.114
+"491","Oklahoma","Agriculture",411,1,0.15,0,0.129
+"492","Oklahoma","Armed Forces",NA,NA,NA,NA,NA
+"493","Oklahoma","Construction",406,3,0.16,0.361,0.181
+"494","Oklahoma","Educational and health services",405,10,0.07,0.074,0.072
+"495","Oklahoma","Financial activities",408,8,0.08,0,0.075
+"496","Oklahoma","Information",415,7,0.01,0.019,0.007
+"497","Oklahoma","Leisure and hospitality",414,11,0.07,0.167,0.083
+"498","Oklahoma","Manufacturing",413,4,0.02,0.009,0.022
+"499","Oklahoma","Mining",409,2,0.03,0,0.022
+"500","Oklahoma","Other services",412,12,0.09,0.157,0.094
+"501","Oklahoma","Professional and business services",410,9,0.17,0.167,0.167
+"502","Oklahoma","Public administration",NA,NA,NA,NA,NA
+"503","Oklahoma","Transportation and utilities",407,6,0.07,0.028,0.061
+"504","Oklahoma","Wholesale & retail trade",416,5,0.09,0.019,0.085
+"505","Oregon","Agriculture",534,1,0.12,0.057,0.108
+"506","Oregon","Armed Forces",NA,NA,NA,NA,NA
+"507","Oregon","Construction",541,3,0.12,0.057,0.115
+"508","Oregon","Educational and health services",533,10,0.12,0.171,0.125
+"509","Oregon","Financial activities",532,8,0.08,0.043,0.076
+"510","Oregon","Information",536,7,0,0,0.004
+"511","Oregon","Leisure and hospitality",537,11,0.09,0.179,0.103
+"512","Oregon","Manufacturing",535,4,0.05,0.05,0.049
+"513","Oregon","Mining",NA,NA,NA,NA,NA
+"514","Oregon","Other services",542,12,0.08,0.071,0.083
+"515","Oregon","Professional and business services",538,9,0.21,0.257,0.218
+"516","Oregon","Public administration",NA,NA,NA,NA,NA
+"517","Oregon","Transportation and utilities",540,6,0.02,0,0.022
+"518","Oregon","Wholesale & retail trade",539,5,0.1,0.114,0.098
+"519","Pennsylvania","Agriculture",93,1,0.08,0,0.075
+"520","Pennsylvania","Armed Forces",NA,NA,NA,NA,NA
+"521","Pennsylvania","Construction",99,3,0.17,0.137,0.169
+"522","Pennsylvania","Educational and health services",94,10,0.09,0.106,0.094
+"523","Pennsylvania","Financial activities",95,8,0.08,0.062,0.074
+"524","Pennsylvania","Information",91,7,0.01,0,0.009
+"525","Pennsylvania","Leisure and hospitality",98,11,0.05,0.23,0.074
+"526","Pennsylvania","Manufacturing",97,4,0.04,0.019,0.04
+"527","Pennsylvania","Mining",100,2,0,0,0.004
+"528","Pennsylvania","Other services",96,12,0.12,0.087,0.112
+"529","Pennsylvania","Professional and business services",89,9,0.17,0.13,0.168
+"530","Pennsylvania","Public administration",NA,NA,NA,NA,NA
+"531","Pennsylvania","Transportation and utilities",90,6,0.04,0.05,0.042
+"532","Pennsylvania","Wholesale & retail trade",92,5,0.13,0.18,0.138
+"533","Rhode Island","Agriculture",49,1,0.02,0,0.015
+"534","Rhode Island","Armed Forces",NA,NA,NA,NA,NA
+"535","Rhode Island","Construction",53,3,0.14,0.203,0.146
+"536","Rhode Island","Educational and health services",54,10,0.14,0.031,0.127
+"537","Rhode Island","Financial activities",45,8,0.11,0.141,0.118
+"538","Rhode Island","Information",51,7,0.02,0.062,0.024
+"539","Rhode Island","Leisure and hospitality",50,11,0.06,0.141,0.069
+"540","Rhode Island","Manufacturing",46,4,0.05,0,0.047
+"541","Rhode Island","Mining",NA,NA,NA,NA,NA
+"542","Rhode Island","Other services",55,12,0.05,0.078,0.058
+"543","Rhode Island","Professional and business services",48,9,0.29,0.156,0.273
+"544","Rhode Island","Public administration",NA,NA,NA,NA,NA
+"545","Rhode Island","Transportation and utilities",52,6,0.02,0.062,0.028
+"546","Rhode Island","Wholesale & retail trade",47,5,0.09,0.125,0.097
+"547","South Carolina","Agriculture",315,1,0.04,0,0.032
+"548","South Carolina","Armed Forces",NA,NA,NA,NA,NA
+"549","South Carolina","Construction",312,3,0.17,0.222,0.177
+"550","South Carolina","Educational and health services",308,10,0.1,0.056,0.095
+"551","South Carolina","Financial activities",305,8,0.07,0,0.061
+"552","South Carolina","Information",313,7,0.01,0,0.006
+"553","South Carolina","Leisure and hospitality",314,11,0.08,0.056,0.077
+"554","South Carolina","Manufacturing",307,4,0.07,0.014,0.062
+"555","South Carolina","Mining",NA,NA,NA,NA,NA
+"556","South Carolina","Other services",311,12,0.07,0.056,0.072
+"557","South Carolina","Professional and business services",309,9,0.25,0.361,0.263
+"558","South Carolina","Public administration",NA,NA,NA,NA,NA
+"559","South Carolina","Transportation and utilities",306,6,0.03,0.083,0.036
+"560","South Carolina","Wholesale & retail trade",310,5,0.12,0.153,0.12
+"561","South Dakota","Agriculture",206,1,0.27,0,0.266
+"562","South Dakota","Armed Forces",NA,NA,NA,NA,NA
+"563","South Dakota","Construction",208,3,0.17,0,0.165
+"564","South Dakota","Educational and health services",213,10,0.11,0.15,0.113
+"565","South Dakota","Financial activities",211,8,0.04,0,0.042
+"566","South Dakota","Information",210,7,0,0,0.002
+"567","South Dakota","Leisure and hospitality",207,11,0.03,0.4,0.038
+"568","South Dakota","Manufacturing",212,4,0.03,0,0.031
+"569","South Dakota","Mining",203,2,0,0,0.003
+"570","South Dakota","Other services",209,12,0.1,0,0.098
+"571","South Dakota","Professional and business services",205,9,0.09,0,0.091
+"572","South Dakota","Public administration",NA,NA,NA,NA,NA
+"573","South Dakota","Transportation and utilities",204,6,0.04,0.4,0.047
+"574","South Dakota","Wholesale & retail trade",202,5,0.11,0.05,0.104
+"575","Tennessee","Agriculture",350,1,0.04,0.04,0.042
+"576","Tennessee","Armed Forces",NA,NA,NA,NA,NA
+"577","Tennessee","Construction",356,3,0.16,0.273,0.169
+"578","Tennessee","Educational and health services",349,10,0.1,0.03,0.093
+"579","Tennessee","Financial activities",348,8,0.11,0.01,0.102
+"580","Tennessee","Information",354,7,0.02,0,0.019
+"581","Tennessee","Leisure and hospitality",355,11,0.11,0.091,0.104
+"582","Tennessee","Manufacturing",358,4,0.02,0.01,0.023
+"583","Tennessee","Mining",NA,NA,NA,NA,NA
+"584","Tennessee","Other services",357,12,0.11,0.192,0.114
+"585","Tennessee","Professional and business services",352,9,0.2,0.131,0.19
+"586","Tennessee","Public administration",NA,NA,NA,NA,NA
+"587","Tennessee","Transportation and utilities",353,6,0.04,0.02,0.036
+"588","Tennessee","Wholesale & retail trade",351,5,0.1,0.202,0.108
+"589","Texas","Agriculture",425,1,0.03,0.004,0.025
+"590","Texas","Armed Forces",NA,NA,NA,NA,NA
+"591","Texas","Construction",426,3,0.21,0.28,0.229
+"592","Texas","Educational and health services",427,10,0.08,0.062,0.074
+"593","Texas","Financial activities",424,8,0.09,0.032,0.075
+"594","Texas","Information",420,7,0.02,0.002,0.013
+"595","Texas","Leisure and hospitality",417,11,0.04,0.08,0.055
+"596","Texas","Manufacturing",428,4,0.03,0.037,0.033
+"597","Texas","Mining",422,2,0.01,0,0.004
+"598","Texas","Other services",423,12,0.08,0.096,0.085
+"599","Texas","Professional and business services",418,9,0.24,0.23,0.236
+"600","Texas","Public administration",NA,NA,NA,NA,NA
+"601","Texas","Transportation and utilities",419,6,0.06,0.065,0.062
+"602","Texas","Wholesale & retail trade",421,5,0.11,0.113,0.11
+"603","Utah","Agriculture",500,1,0.03,0,0.028
+"604","Utah","Armed Forces",NA,NA,NA,NA,NA
+"605","Utah","Construction",507,3,0.16,0.222,0.165
+"606","Utah","Educational and health services",504,10,0.13,0.162,0.131
+"607","Utah","Financial activities",508,8,0.13,0.192,0.135
+"608","Utah","Information",506,7,0.01,0,0.009
+"609","Utah","Leisure and hospitality",498,11,0.09,0.04,0.087
+"610","Utah","Manufacturing",502,4,0.04,0.02,0.042
+"611","Utah","Mining",NA,NA,NA,NA,NA
+"612","Utah","Other services",501,12,0.11,0.091,0.107
+"613","Utah","Professional and business services",499,9,0.18,0.253,0.19
+"614","Utah","Public administration",NA,NA,NA,NA,NA
+"615","Utah","Transportation and utilities",503,6,0.02,0.01,0.019
+"616","Utah","Wholesale & retail trade",505,5,0.1,0.01,0.087
+"617","Vermont","Agriculture",31,1,0.12,0.123,0.116
+"618","Vermont","Armed Forces",NA,NA,NA,NA,NA
+"619","Vermont","Construction",27,3,0.22,0,0.208
+"620","Vermont","Educational and health services",33,10,0.09,0.035,0.089
+"621","Vermont","Financial activities",32,8,0.05,0,0.048
+"622","Vermont","Information",30,7,0.02,0,0.014
+"623","Vermont","Leisure and hospitality",25,11,0.07,0.263,0.083
+"624","Vermont","Manufacturing",24,4,0.05,0.105,0.055
+"625","Vermont","Mining",NA,NA,NA,NA,NA
+"626","Vermont","Other services",28,12,0.11,0.053,0.107
+"627","Vermont","Professional and business services",29,9,0.16,0.175,0.162
+"628","Vermont","Public administration",NA,NA,NA,NA,NA
+"629","Vermont","Transportation and utilities",23,6,0.01,0.07,0.015
+"630","Vermont","Wholesale & retail trade",26,5,0.1,0.175,0.103
+"631","Virginia","Agriculture",280,1,0.03,0,0.027
+"632","Virginia","Armed Forces",NA,NA,NA,NA,NA
+"633","Virginia","Construction",273,3,0.18,0.184,0.184
+"634","Virginia","Educational and health services",271,10,0.1,0.044,0.084
+"635","Virginia","Financial activities",272,8,0.08,0.005,0.06
+"636","Virginia","Information",277,7,0.01,0,0.006
+"637","Virginia","Leisure and hospitality",275,11,0.08,0.092,0.08
+"638","Virginia","Manufacturing",281,4,0.02,0.068,0.029
+"639","Virginia","Mining",NA,NA,NA,NA,NA
+"640","Virginia","Other services",274,12,0.07,0.063,0.068
+"641","Virginia","Professional and business services",276,9,0.3,0.33,0.306
+"642","Virginia","Public administration",NA,NA,NA,NA,NA
+"643","Virginia","Transportation and utilities",279,6,0.02,0.102,0.043
+"644","Virginia","Wholesale & retail trade",278,5,0.11,0.112,0.114
+"645","Washington","Agriculture",521,1,0.04,0.016,0.034
+"646","Washington","Armed Forces",NA,NA,NA,NA,NA
+"647","Washington","Construction",529,3,0.14,0.145,0.14
+"648","Washington","Educational and health services",531,10,0.08,0.133,0.095
+"649","Washington","Financial activities",524,8,0.07,0.027,0.063
+"650","Washington","Information",527,7,0.02,0.004,0.016
+"651","Washington","Leisure and hospitality",520,11,0.07,0.086,0.077
+"652","Washington","Manufacturing",530,4,0.04,0.035,0.041
+"653","Washington","Mining",522,2,0,0.004,0.001
+"654","Washington","Other services",525,12,0.1,0.031,0.085
+"655","Washington","Professional and business services",528,9,0.24,0.302,0.251
+"656","Washington","Public administration",NA,NA,NA,NA,NA
+"657","Washington","Transportation and utilities",526,6,0.04,0.114,0.055
+"658","Washington","Wholesale & retail trade",523,5,0.15,0.102,0.142
+"659","Washington, D.C.","Agriculture",270,1,0,0.006,0.002
+"660","Washington, D.C.","Armed Forces",NA,NA,NA,NA,NA
+"661","Washington, D.C.","Construction",261,3,0.05,0.089,0.057
+"662","Washington, D.C.","Educational and health services",264,10,0.12,0.108,0.115
+"663","Washington, D.C.","Financial activities",269,8,0.1,0.115,0.101
+"664","Washington, D.C.","Information",268,7,0.05,0.045,0.052
+"665","Washington, D.C.","Leisure and hospitality",260,11,0.09,0.096,0.095
+"666","Washington, D.C.","Manufacturing",266,4,0,0,0.004
+"667","Washington, D.C.","Mining",NA,NA,NA,NA,NA
+"668","Washington, D.C.","Other services",265,12,0.05,0.051,0.053
+"669","Washington, D.C.","Professional and business services",263,9,0.47,0.293,0.434
+"670","Washington, D.C.","Public administration",NA,NA,NA,NA,NA
+"671","Washington, D.C.","Transportation and utilities",262,6,0.02,0.064,0.031
+"672","Washington, D.C.","Wholesale & retail trade",267,5,0.04,0.134,0.056
+"673","West Virginia","Agriculture",289,1,0.1,0.1,0.104
+"674","West Virginia","Armed Forces",NA,NA,NA,NA,NA
+"675","West Virginia","Construction",284,3,0.18,0.15,0.182
+"676","West Virginia","Educational and health services",287,10,0.16,0.1,0.161
+"677","West Virginia","Financial activities",292,8,0.05,0.2,0.053
+"678","West Virginia","Information",290,7,0.01,0.1,0.01
+"679","West Virginia","Leisure and hospitality",282,11,0.04,0.15,0.044
+"680","West Virginia","Manufacturing",285,4,0.06,0,0.056
+"681","West Virginia","Mining",283,2,0.01,0,0.007
+"682","West Virginia","Other services",291,12,0.12,0,0.112
+"683","West Virginia","Professional and business services",293,9,0.14,0.15,0.139
+"684","West Virginia","Public administration",NA,NA,NA,NA,NA
+"685","West Virginia","Transportation and utilities",288,6,0.05,0,0.046
+"686","West Virginia","Wholesale & retail trade",286,5,0.09,0.05,0.085
+"687","Wisconsin","Agriculture",153,1,0.16,0.032,0.15
+"688","Wisconsin","Armed Forces",NA,NA,NA,NA,NA
+"689","Wisconsin","Construction",152,3,0.16,0.127,0.154
+"690","Wisconsin","Educational and health services",149,10,0.1,0.206,0.104
+"691","Wisconsin","Financial activities",155,8,0.07,0,0.061
+"692","Wisconsin","Information",150,7,0.01,0,0.006
+"693","Wisconsin","Leisure and hospitality",151,11,0.06,0.032,0.061
+"694","Wisconsin","Manufacturing",146,4,0.07,0.063,0.067
+"695","Wisconsin","Mining",NA,NA,NA,NA,NA
+"696","Wisconsin","Other services",147,12,0.11,0.079,0.111
+"697","Wisconsin","Professional and business services",154,9,0.13,0.222,0.135
+"698","Wisconsin","Public administration",NA,NA,NA,NA,NA
+"699","Wisconsin","Transportation and utilities",156,6,0.05,0.063,0.053
+"700","Wisconsin","Wholesale & retail trade",148,5,0.09,0.175,0.097
+"701","Wyoming","Agriculture",459,1,0.18,0.025,0.175
+"702","Wyoming","Armed Forces",NA,NA,NA,NA,NA
+"703","Wyoming","Construction",452,3,0.14,0.075,0.139
+"704","Wyoming","Educational and health services",458,10,0.08,0.175,0.087
+"705","Wyoming","Financial activities",456,8,0.04,0,0.04
+"706","Wyoming","Information",455,7,0,0.15,0.007
+"707","Wyoming","Leisure and hospitality",460,11,0.06,0.35,0.069
+"708","Wyoming","Manufacturing",451,4,0.02,0,0.016
+"709","Wyoming","Mining",462,2,0.03,0,0.026
+"710","Wyoming","Other services",454,12,0.15,0.1,0.15
+"711","Wyoming","Professional and business services",457,9,0.14,0.125,0.142
+"712","Wyoming","Public administration",NA,NA,NA,NA,NA
+"713","Wyoming","Transportation and utilities",461,6,0.05,0,0.05
+"714","Wyoming","Wholesale & retail trade",453,5,0.1,0,0.099
